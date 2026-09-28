@@ -7,8 +7,7 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 10 — Lacuna Noir">
 <meta property="og:description" content="I moved into that studio back in October because the rent was low and it was close to my job.">
-<meta property="og:image" content="https://i.ytimg.com/vi/aJvgdaJpWyY/maxresdefault.jpg">
-<meta name="twitter:card" content="summary_large_image">
+
 <link rel="canonical" href="https://lacunanoirstory.com/ep-010-no-ads-5-minutes-of-true-scary-stories.html">
 <meta name="color-scheme" content="dark">
 <style>
@@ -122,6 +121,26 @@ hr.sep{border:0;border-top:1px solid var(--rule);margin:3.2em 0}
   width:40px;height:40px;font:700 14px/1 var(--sans);cursor:pointer;box-shadow:var(--shadow)}
 .tools button:hover{border-color:var(--accent);color:var(--accent)}
 
+/* the book: paged reading, enabled only once JS has measured it */
+/* scroll-margin clears the sticky top bar: without it, jumping to the book
+   (or the "Start reading" link) puts the first line UNDER the header. */
+.book{position:relative;overflow:hidden;margin:26px 0 0;scroll-margin-top:84px}
+body.js-book .book{height:var(--bookH,min(72vh,780px));border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding-top:18px}
+.sheet{position:relative;column-fill:auto;transition:transform .3s cubic-bezier(.4,0,.2,1)}
+body.js-book .sheet{height:calc(100% - 18px)}
+body.js-book .sheet section{break-before:column}
+body.js-book .sheet section:first-of-type{break-before:auto}
+body.js-book .sheet hr.sep{display:none}
+.turn{display:flex;align-items:center;justify-content:center;gap:10px;padding:14px 0 4px;flex-wrap:wrap}
+.turn button{background:var(--panel);color:var(--ink);border:1px solid var(--rule);border-radius:10px;
+  padding:9px 16px;font:600 12px/1 var(--sans);letter-spacing:.1em;cursor:pointer;transition:.15s}
+.turn button:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
+.turn button:disabled{opacity:.3;cursor:default}
+.turn .at{font:600 12px/1 var(--sans);color:var(--dim);letter-spacing:.12em;min-width:96px;text-align:center}
+.turn .mode{margin-left:auto}
+body:not(.js-book) .turn .nav{display:none}
+.hint{text-align:center;font:400 11px/1.6 var(--sans);color:var(--faint);padding:2px 0 10px}
+body:not(.js-book) .hint{display:none}
 footer{border-top:1px solid var(--rule);margin-top:60px;padding:26px 0 46px;
   font:400 13px/1.75 var(--sans);color:var(--faint)}
 footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
@@ -150,9 +169,13 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
     <h1>TRUE Scary Stories for Sleep</h1>
     <div class="meta">1 story · 839 words · about 5 min read-along · Rain Sounds</div>
   </div>
-  <div class="cta" style="margin:22px 0 4px"><a class="btn primary" href="https://www.youtube.com/watch?v=aJvgdaJpWyY" target="_blank" rel="noopener">▶ Watch on YouTube</a><a class="btn ghost" href="#s1">Start reading</a></div>
-  <div class="embed"><iframe src="https://www.youtube-nocookie.com/embed/aJvgdaJpWyY" title="NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 10" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="cta" style="margin:22px 0 4px">
+    
+    <a class="btn primary" href="#book">Start reading</a>
+  </div>
   
+  
+  <div class="book" id="book"><div class="sheet" id="sheet">
   
 <section id="s1">
   <h2><span class="num">Story 1 of 1</span>The Third Tap</h2>
@@ -176,6 +199,14 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
   <p>I eventually fell asleep, but when I woke up this morning, there was a small smudge on the outside of the mirror, right where the tapping always happens. I didn&#39;t clean it off. I just went to work and haven&#39;t really thought about it since I got home tonight.</p>
 </section>
 
+  </div></div>
+  <div class="turn">
+    <button class="nav" id="pv" aria-label="Previous page">‹ Back</button>
+    <span class="at" id="at" aria-live="polite"></span>
+    <button class="nav" id="nx" aria-label="Next page">Next ›</button>
+    <button class="mode" id="md">📜 Scroll instead</button>
+  </div>
+  <p class="hint">Arrow keys, or swipe on a phone.</p>
 </article>
 <footer><div class="shell">
   <p><a href="./index.html">← All episodes</a></p>
@@ -198,6 +229,95 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
   var d=document.getElementById('fs-'),u=document.getElementById('fs+');
   if(d)d.onclick=function(){set(Math.max(15,cur()-1))};
   if(u)u.onclick=function(){set(Math.min(30,cur()+1))};
+})();
+
+(function(){
+  var book=document.getElementById('book'), sheet=document.getElementById('sheet');
+  if(!book||!sheet) return;
+  var prev=document.getElementById('pv'), next=document.getElementById('nx');
+  var at=document.getElementById('at'), mode=document.getElementById('md');
+  var GAP=48, page=0, pages=1, M='ln-read';
+  var paged=true; try{ paged=(localStorage.getItem(M)||'book')==='book'; }catch(e){}
+
+  function w(){ return book.clientWidth; }
+  function step(){ return w()+GAP; }
+
+  function measure(){
+    if(!paged){
+      document.body.classList.remove('js-book');
+      sheet.style.columnWidth=''; sheet.style.columnGap=''; sheet.style.transform='';
+      pages=1; page=0; paint(); return;
+    }
+    document.body.classList.add('js-book');
+    sheet.style.columnWidth=w()+'px';
+    sheet.style.columnGap=GAP+'px';
+    // scrollWidth counts the gap after the last column on some engines, so the
+    // round() rather than ceil() — an off-by-one here is a blank final page.
+    pages=Math.max(1,Math.round((sheet.scrollWidth+GAP)/step()));
+    if(page>pages-1) page=pages-1;
+    go(page,true);
+  }
+  function paint(){
+    if(at) at.textContent = paged ? (page+1)+' / '+pages : 'scrolling';
+    if(prev) prev.disabled = !paged || page<=0;
+    if(next) next.disabled = !paged || page>=pages-1;
+    if(mode) mode.textContent = paged ? '📜 Scroll instead' : '📖 Read as a book';
+  }
+  function go(i,quiet){
+    page=Math.min(Math.max(0,i),pages-1);
+    sheet.style.transform='translateX('+(-page*step())+'px)';
+    paint();
+    if(!quiet) book.scrollIntoView({block:'nearest'});
+  }
+
+  if(prev) prev.onclick=function(){ go(page-1); };
+  if(next) next.onclick=function(){ go(page+1); };
+  if(mode) mode.onclick=function(){
+    paged=!paged; try{ localStorage.setItem(M, paged?'book':'scroll'); }catch(e){}
+    measure(); if(paged) book.scrollIntoView({block:'nearest'});
+  };
+
+  addEventListener('keydown',function(e){
+    if(!paged) return;
+    var t=e.target&&e.target.tagName;
+    if(t==='INPUT'||t==='TEXTAREA'||t==='SELECT') return;
+    if(e.key==='ArrowRight'||e.key==='PageDown'){ e.preventDefault(); go(page+1); }
+    if(e.key==='ArrowLeft'||e.key==='PageUp'){ e.preventDefault(); go(page-1); }
+  });
+
+  // Swipe, which is how a phone expects to turn a page.
+  var x0=null,y0=null;
+  book.addEventListener('touchstart',function(e){ var t=e.touches[0]; x0=t.clientX; y0=t.clientY; },{passive:true});
+  book.addEventListener('touchend',function(e){
+    if(x0===null||!paged) return;
+    var t=e.changedTouches[0], dx=t.clientX-x0, dy=t.clientY-y0;
+    // Horizontal only — a vertical swipe is the reader scrolling the page.
+    if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)) go(page+(dx<0?1:-1));
+    x0=null; y0=null;
+  },{passive:true});
+
+  // Contents jump to the page a story starts on. offsetLeft is layout, not the
+  // transform, so it stays correct whichever page is showing.
+  [].slice.call(document.querySelectorAll('.toc a')).forEach(function(a){
+    a.addEventListener('click',function(e){
+      if(!paged) return;
+      var el=document.querySelector(a.getAttribute('href'));
+      if(!el) return;
+      e.preventDefault();
+      go(Math.round(el.offsetLeft/step()));
+      book.scrollIntoView({block:'start',behavior:'smooth'});
+    });
+  });
+
+  var t=null;
+  addEventListener('resize',function(){ clearTimeout(t); t=setTimeout(measure,120); });
+  // The text-size buttons change how much fits, so re-measure after they run.
+  ['fs-','fs+'].forEach(function(id){
+    var b=document.getElementById(id);
+    if(b) b.addEventListener('click',function(){ setTimeout(measure,0); });
+  });
+  if(document.fonts&&document.fonts.ready) document.fonts.ready.then(measure);
+  measure();
 })();
 </script>
 </body></html>
