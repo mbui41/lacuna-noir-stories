@@ -7,8 +7,7 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Lacuna Noir — the stories">
 <meta property="og:description" content="Quiet stories for sleepless nights. Read them here, or listen on the channel.">
-<meta property="og:image" content="https://i.ytimg.com/vi/aJvgdaJpWyY/maxresdefault.jpg">
-<meta name="twitter:card" content="summary_large_image">
+
 <link rel="canonical" href="https://lacunanoirstory.com/index.html">
 <meta name="color-scheme" content="dark">
 <style>
@@ -122,6 +121,26 @@ hr.sep{border:0;border-top:1px solid var(--rule);margin:3.2em 0}
   width:40px;height:40px;font:700 14px/1 var(--sans);cursor:pointer;box-shadow:var(--shadow)}
 .tools button:hover{border-color:var(--accent);color:var(--accent)}
 
+/* the book: paged reading, enabled only once JS has measured it */
+/* scroll-margin clears the sticky top bar: without it, jumping to the book
+   (or the "Start reading" link) puts the first line UNDER the header. */
+.book{position:relative;overflow:hidden;margin:26px 0 0;scroll-margin-top:84px}
+body.js-book .book{height:var(--bookH,min(72vh,780px));border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding-top:18px}
+.sheet{position:relative;column-fill:auto;transition:transform .3s cubic-bezier(.4,0,.2,1)}
+body.js-book .sheet{height:calc(100% - 18px)}
+body.js-book .sheet section{break-before:column}
+body.js-book .sheet section:first-of-type{break-before:auto}
+body.js-book .sheet hr.sep{display:none}
+.turn{display:flex;align-items:center;justify-content:center;gap:10px;padding:14px 0 4px;flex-wrap:wrap}
+.turn button{background:var(--panel);color:var(--ink);border:1px solid var(--rule);border-radius:10px;
+  padding:9px 16px;font:600 12px/1 var(--sans);letter-spacing:.1em;cursor:pointer;transition:.15s}
+.turn button:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
+.turn button:disabled{opacity:.3;cursor:default}
+.turn .at{font:600 12px/1 var(--sans);color:var(--dim);letter-spacing:.12em;min-width:96px;text-align:center}
+.turn .mode{margin-left:auto}
+body:not(.js-book) .turn .nav{display:none}
+.hint{text-align:center;font:400 11px/1.6 var(--sans);color:var(--faint);padding:2px 0 10px}
+body:not(.js-book) .hint{display:none}
 footer{border-top:1px solid var(--rule);margin-top:60px;padding:26px 0 46px;
   font:400 13px/1.75 var(--sans);color:var(--faint)}
 footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
@@ -145,7 +164,7 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
 </div></header>
 <main class="shell">
   <section class="hero">
-  <div class="bg" style="background-image:url('https://i.ytimg.com/vi/aJvgdaJpWyY/maxresdefault.jpg')"></div>
+  <div class="bg" style="background:linear-gradient(145deg,hsl(110 30% 12%),hsl(150 45% 6%))"></div>
   <div class="in">
     <div class="kicker">Latest episode</div>
     <h1>TRUE Scary Stories for Sleep</h1>
@@ -153,11 +172,11 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
     <div class="facts">
       <span class="pill">Episode 10</span>
       <span class="pill">1 story</span>
-      <span class="pill">Video</span>
+      
     </div>
     <div class="cta">
       <a class="btn primary" href="./ep-010-no-ads-5-minutes-of-true-scary-stories.html">Read the stories</a>
-      <a class="btn ghost" href="https://www.youtube.com/watch?v=aJvgdaJpWyY" target="_blank" rel="noopener">▶ Watch on YouTube</a>
+      
     </div>
   </div>
 </section>
@@ -167,11 +186,11 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
     <span class="find"><input id="q" type="search" placeholder="Search titles…" aria-label="Search episodes"></span>
   </div>
   <div class="grid"><a class="card" href="./ep-010-no-ads-5-minutes-of-true-scary-stories.html" data-find="no ads 🛑 5 minutes of true scary stories for sleep | rain sounds | black screen | ep. 10 i moved into that studio back in october because the rent was low and it was close to my job.">
-  <div class="cov"><span class="ep">EP 10</span><img src="https://i.ytimg.com/vi/aJvgdaJpWyY/hqdefault.jpg" alt="" loading="lazy"></div>
+  <div class="cov"><span class="ep">EP 10</span><div style="width:100%;height:100%;background:linear-gradient(145deg,hsl(110 30% 12%),hsl(150 45% 6%))"></div></div>
   <div class="body">
     <h3>TRUE Scary Stories for Sleep</h3>
     <p>I moved into that studio back in October because the rent was low and it was close to my job.</p>
-    <div class="foot"><span>1 story</span><span>▶ Video</span></div>
+    <div class="foot"><span>1 story</span></div>
   </div>
 </a></div>
   
