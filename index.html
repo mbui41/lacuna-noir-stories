@@ -7,7 +7,8 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Lacuna Noir — the stories">
 <meta property="og:description" content="Quiet stories for sleepless nights. Read them here, or listen on the channel.">
-
+<meta property="og:image" content="https://i.ytimg.com/vi/ur704nptonA/maxresdefault.jpg">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://lacunanoirstory.com/index.html">
 <meta name="color-scheme" content="dark">
 <style>
@@ -106,7 +107,9 @@ a{color:inherit;text-decoration:none}
 .read h2{font:400 clamp(1.3rem,3.6vw,1.7rem)/1.3 var(--serif);margin:2.5em 0 .25em}
 .read h2 .num{display:block;font:700 10px/1 var(--sans);letter-spacing:.22em;color:var(--accent);margin-bottom:1em;text-transform:uppercase}
 .read p{margin:0 0 1.15em}
-.read section p:first-of-type::first-letter{float:left;font-size:3.1em;line-height:.84;padding:.06em .1em 0 0;color:var(--accent)}
+/* the drop cap opens a STORY. The closing card is not one, so it is excluded —
+   otherwise "That's the whole episode" starts with a three-line red letter. */
+.read section:not(.end) p:first-of-type::first-letter{float:left;font-size:3.1em;line-height:.84;padding:.06em .1em 0 0;color:var(--accent)}
 .embed{position:relative;padding-top:56.25%;margin:26px 0;border-radius:14px;overflow:hidden;background:#000;box-shadow:var(--shadow);border:1px solid var(--rule)}
 .embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 .toc{background:var(--panel);border:1px solid var(--rule);border-radius:12px;padding:18px 22px;margin:0 0 42px}
@@ -120,6 +123,7 @@ hr.sep{border:0;border-top:1px solid var(--rule);margin:3.2em 0}
 .tools button{background:var(--panel);color:var(--ink);border:1px solid var(--rule);border-radius:10px;
   width:40px;height:40px;font:700 14px/1 var(--sans);cursor:pointer;box-shadow:var(--shadow)}
 .tools button:hover{border-color:var(--accent);color:var(--accent)}
+.tools button.on{border-color:var(--accent);color:var(--accent);background:#1a0f11}
 
 /* the book: paged reading, enabled only once JS has measured it */
 /* scroll-margin clears the sticky top bar: without it, jumping to the book
@@ -136,11 +140,46 @@ body.js-book .sheet hr.sep{display:none}
   padding:9px 16px;font:600 12px/1 var(--sans);letter-spacing:.1em;cursor:pointer;transition:.15s}
 .turn button:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
 .turn button:disabled{opacity:.3;cursor:default}
-.turn .at{font:600 12px/1 var(--sans);color:var(--dim);letter-spacing:.12em;min-width:96px;text-align:center}
+.turn .at{display:inline-flex;align-items:center;gap:7px;font:600 12px/1 var(--sans);color:var(--dim);letter-spacing:.1em}
+.turn .at input{width:58px;background:var(--bg);color:var(--ink);border:1px solid var(--rule);border-radius:8px;
+  padding:8px 6px;font:600 13px/1 var(--sans);text-align:center;outline:none;-moz-appearance:textfield}
+.turn .at input:focus{border-color:var(--accent)}
+.turn .at input::-webkit-outer-spin-button,.turn .at input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+.turn .at .of b{color:var(--ink)}
+.sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap;border:0}
+body:not(.js-book) .turn .at{display:none}
 .turn .mode{margin-left:auto}
 body:not(.js-book) .turn .nav{display:none}
 .hint{text-align:center;font:400 11px/1.6 var(--sans);color:var(--faint);padding:2px 0 10px}
 body:not(.js-book) .hint{display:none}
+
+/* "you were on page 23" — shown only when there is a page to go back to */
+.resume{display:none;align-items:center;gap:14px;margin:24px 0 0;padding:13px 16px;
+  background:var(--panel);border:1px solid var(--rule);border-left:3px solid var(--accent);
+  border-radius:12px;font:400 14px/1.45 var(--sans);color:var(--dim)}
+.resume.on{display:flex}
+.resume b{color:var(--ink);font-weight:600}
+.resume button{background:none;border:0;padding:6px 2px;cursor:pointer;
+  font:700 11px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}
+.resume button:hover{color:var(--accent2)}
+.resume .x{margin-left:auto;color:var(--faint);font-size:15px;letter-spacing:0;text-transform:none}
+.resume .x:hover{color:var(--ink)}
+
+/* the closing card: the last page of the book */
+.read section.end{text-align:center}
+.end .done{font:700 10px/1 var(--sans);letter-spacing:.34em;text-transform:uppercase;color:var(--faint);margin:0 0 20px}
+.read .end h2{font:400 clamp(1.4rem,4vw,1.9rem)/1.24 var(--serif);margin:0 0 .3em}
+.end .sub{font:400 .95rem/1.6 var(--sans);color:var(--dim);margin:0 0 24px}
+.end .nxt:empty{display:none}
+.end .nxt a{display:flex;gap:15px;align-items:center;text-align:left;margin:0 0 20px;padding:13px;
+  background:var(--panel);border:1px solid var(--rule);border-radius:14px;transition:.18s}
+.end .nxt a:hover{border-color:#3a2226;box-shadow:var(--shadow)}
+.end .nxt .cov{width:128px;aspect-ratio:16/9;flex:none;border-radius:9px;overflow:hidden;background:var(--panel2)}
+.end .nxt .cov img{width:100%;height:100%;object-fit:cover}
+.end .nxt .k{font:700 10px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.end .nxt .t{font:400 1.1rem/1.3 var(--serif);color:var(--ink)}
+.end .cta{justify-content:center}
+.end .btn{font-size:11px;padding:11px 19px}
 footer{border-top:1px solid var(--rule);margin-top:60px;padding:26px 0 46px;
   font:400 13px/1.75 var(--sans);color:var(--faint)}
 footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
@@ -152,7 +191,7 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
   .grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:13px}
   .card h3{font-size:1rem}
 }
-@media print{.nav,.tools,.bar,.embed,footer{display:none}body{background:#fff;color:#111}}
+@media print{.nav,.tools,.bar,.embed,.resume,.turn,.hint,footer{display:none}body{background:#fff;color:#111}}
 </style>
 </head><body>
 <header class="nav"><div class="shell">
@@ -164,28 +203,35 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
 </div></header>
 <main class="shell">
   <section class="hero">
-  <div class="bg" style="background:linear-gradient(145deg,hsl(110 30% 12%),hsl(150 45% 6%))"></div>
+  <div class="bg" style="background-image:url('https://i.ytimg.com/vi/ur704nptonA/maxresdefault.jpg')"></div>
   <div class="in">
     <div class="kicker">Latest episode</div>
     <h1>TRUE Scary Stories for Sleep</h1>
-    <p class="tag">I moved into that studio back in October because the rent was low and it was close to my job.</p>
+    <p class="tag">I live in a house at the end of a cul-de-sac. It is a quiet place where the only sound is the refrigerator hum and the wind in the vents.</p>
     <div class="facts">
-      <span class="pill">Episode 10</span>
+      <span class="pill">Episode 11</span>
       <span class="pill">1 story</span>
-      
+      <span class="pill">Video</span>
     </div>
     <div class="cta">
-      <a class="btn primary" href="./ep-010-no-ads-5-minutes-of-true-scary-stories.html">Read the stories</a>
-      
+      <a class="btn primary" href="./ep-011-no-ads-5-minutes-of-true-scary-stories.html">Read the stories</a>
+      <a class="btn ghost" href="https://www.youtube.com/watch?v=ur704nptonA" target="_blank" rel="noopener">▶ Watch on YouTube</a>
     </div>
   </div>
 </section>
   <div class="sec" id="all">
     <h2>All episodes</h2>
-    <span class="count" id="cnt">1 episode</span>
+    <span class="count" id="cnt">2 episodes</span>
     <span class="find"><input id="q" type="search" placeholder="Search titles…" aria-label="Search episodes"></span>
   </div>
-  <div class="grid"><a class="card" href="./ep-010-no-ads-5-minutes-of-true-scary-stories.html" data-find="no ads 🛑 5 minutes of true scary stories for sleep | rain sounds | black screen | ep. 10 i moved into that studio back in october because the rent was low and it was close to my job.">
+  <div class="grid"><a class="card" href="./ep-011-no-ads-5-minutes-of-true-scary-stories.html" data-find="no ads 🛑 5 minutes of true scary stories for sleep | rain sounds | black screen | ep. 11 i live in a house at the end of a cul-de-sac. it is a quiet place where the only sound is the refrigerator hum and the wind in the vents.">
+  <div class="cov"><span class="ep">EP 11</span><img src="https://i.ytimg.com/vi/ur704nptonA/hqdefault.jpg" alt="" loading="lazy"></div>
+  <div class="body">
+    <h3>TRUE Scary Stories for Sleep</h3>
+    <p>I live in a house at the end of a cul-de-sac. It is a quiet place where the only sound is the refrigerator hum and the wind in the vents.</p>
+    <div class="foot"><span>1 story</span><span>▶ Video</span></div>
+  </div>
+</a><a class="card" href="./ep-010-no-ads-5-minutes-of-true-scary-stories.html" data-find="no ads 🛑 5 minutes of true scary stories for sleep | rain sounds | black screen | ep. 10 i moved into that studio back in october because the rent was low and it was close to my job.">
   <div class="cov"><span class="ep">EP 10</span><div style="width:100%;height:100%;background:linear-gradient(145deg,hsl(110 30% 12%),hsl(150 45% 6%))"></div></div>
   <div class="body">
     <h3>TRUE Scary Stories for Sleep</h3>
