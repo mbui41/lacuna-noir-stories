@@ -7,7 +7,7 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="Lacuna Noir — the stories">
 <meta property="og:description" content="Quiet stories for sleepless nights. Read them here, or listen on the channel.">
-<meta property="og:image" content="https://i.ytimg.com/vi/ULiqlUhk4u8/maxresdefault.jpg">
+<meta property="og:image" content="https://i.ytimg.com/vi/ba8CHXte7dU/maxresdefault.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://lacunanoirstory.com/index.html">
 <meta name="color-scheme" content="dark">
@@ -71,6 +71,30 @@ a{color:inherit;text-decoration:none}
 .find input:focus{border-color:var(--accent)}
 .find input::placeholder{color:var(--faint)}
 
+/* "got a few minutes?" — one story, picked to fit the time you have */
+.pick{margin:34px 0 0;padding:20px 22px;background:var(--panel);border:1px solid var(--rule);
+  border-left:3px solid var(--accent);border-radius:14px}
+.pick h2{font:700 12px/1 var(--sans);letter-spacing:.28em;text-transform:uppercase;margin:0 0 4px}
+.pick p.why{font:400 13px/1.6 var(--sans);color:var(--dim);margin:0 0 14px;max-width:46rem}
+.pick .opts{display:flex;flex-wrap:wrap;gap:9px}
+.pick .opts button{background:var(--bg);color:var(--ink);border:1px solid var(--rule);border-radius:999px;
+  padding:10px 18px;font:700 11px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;cursor:pointer;transition:.15s}
+.pick .opts button:hover{border-color:var(--accent);color:var(--accent)}
+.pick .opts button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.pick .out{margin:16px 0 0}
+.pick .out:empty{display:none}
+.pick .out a{display:flex;gap:15px;align-items:center;padding:14px;border:1px solid var(--rule);
+  border-radius:12px;background:var(--bg);transition:.18s}
+.pick .out a:hover{border-color:#3a2226;box-shadow:var(--shadow)}
+.pick .out .cov{width:116px;aspect-ratio:16/9;flex:none;border-radius:8px;overflow:hidden;background:var(--panel2)}
+.pick .out .cov img{width:100%;height:100%;object-fit:cover}
+.pick .out .k{font:700 10px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:7px}
+.pick .out .t{font:400 1.15rem/1.3 var(--serif)}
+.pick .out .s{font:400 12px/1.5 var(--sans);color:var(--dim);margin-top:5px}
+.pick .none{font:400 13px/1.6 var(--sans);color:var(--faint);margin:16px 0 0}
+body:not(.js-pick) .pick{display:none}
+@media(max-width:640px){.pick .out .cov{display:none}}
+
 /* grid */
 .grid{display:grid;gap:18px;grid-template-columns:repeat(auto-fill,minmax(228px,1fr))}
 .card{background:var(--panel);border:1px solid var(--rule);border-radius:14px;overflow:hidden;
@@ -106,6 +130,14 @@ a{color:inherit;text-decoration:none}
 .read .meta{font:400 13px/1.6 var(--sans);color:var(--dim)}
 .read h2{font:400 clamp(1.3rem,3.6vw,1.7rem)/1.3 var(--serif);margin:2.5em 0 .25em}
 .read h2 .num{display:block;font:700 10px/1 var(--sans);letter-spacing:.22em;color:var(--accent);margin-bottom:1em;text-transform:uppercase}
+/* The timestamp chip beside a story title: quiet by default, obvious on hover.
+   It is a link back into the video and must not shout over the story's name. */
+.read h2 .hear{display:inline-flex;align-items:center;gap:6px;margin-left:.6em;vertical-align:middle;
+  border:1px solid var(--rule);border-radius:999px;padding:6px 12px;background:var(--panel);
+  font:700 10px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--dim);
+  white-space:nowrap;transition:.15s}
+.read h2 .hear:hover{border-color:var(--accent);color:var(--accent);background:#1a0f11}
+@media(max-width:640px){.read h2 .hear{display:flex;margin:.8em 0 0;width:max-content}}
 .read p{margin:0 0 1.15em}
 /* the drop cap opens a STORY. The closing card is not one, so it is excluded —
    otherwise "That's the whole episode" starts with a three-line red letter. */
@@ -203,28 +235,46 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
 </div></header>
 <main class="shell">
   <section class="hero">
-  <div class="bg" style="background-image:url('https://i.ytimg.com/vi/ULiqlUhk4u8/maxresdefault.jpg')"></div>
+  <div class="bg" style="background-image:url('https://i.ytimg.com/vi/ba8CHXte7dU/maxresdefault.jpg')"></div>
   <div class="in">
     <div class="kicker">Latest episode</div>
     <h1>TRUE Scary Stories for Sleep</h1>
-    <p class="tag">I used to work in a municipal records office on the third floor of a brick building. It was a temporary job, filing old property taxes from the seventies.</p>
+    <p class="tag">I moved into that third-floor place back in October. It was a small apartment with high ceilings and a radiator that hissed whenever the heat kicked on, but it felt solid enough…</p>
     <div class="facts">
-      <span class="pill">Episode 16</span>
+      <span class="pill">Episode 18</span>
       <span class="pill">1 story</span>
       <span class="pill">Video</span>
     </div>
     <div class="cta">
-      <a class="btn primary" href="./ep-016-no-ads-5-minutes-of-true-scary-stories.html">Read the stories</a>
-      <a class="btn ghost" href="https://www.youtube.com/watch?v=ULiqlUhk4u8" target="_blank" rel="noopener">▶ Watch on YouTube</a>
+      <a class="btn primary" href="./ep-018-no-ads-5-minutes-of-true-scary-stories.html">Read the stories</a>
+      <a class="btn ghost" href="https://www.youtube.com/watch?v=ba8CHXte7dU" target="_blank" rel="noopener">▶ Watch on YouTube</a>
     </div>
   </div>
 </section>
+  <section class="pick">
+  <h2>Got a few minutes?</h2>
+  <p class="why">Every episode is hours long, but the stories inside them are not. Pick how long you have and take one.</p>
+  <div class="opts">
+    <button data-lo="0" data-hi="8">Under 8 min</button>
+    <button data-lo="8" data-hi="15">8–15 min</button>
+    <button data-lo="15" data-hi="0">15 min+</button>
+    <button data-lo="0" data-hi="0">🎲 Surprise me</button>
+  </div>
+  <div class="out" id="pick-out"></div>
+</section>
   <div class="sec" id="all">
     <h2>All episodes</h2>
-    <span class="count" id="cnt">7 episodes</span>
+    <span class="count" id="cnt">8 episodes</span>
     <span class="find"><input id="q" type="search" placeholder="Search titles…" aria-label="Search episodes"></span>
   </div>
-  <div class="grid"><a class="card" href="./ep-016-no-ads-5-minutes-of-true-scary-stories.html" data-find="no ads 🛑 5 minutes of true scary stories for sleep | rain sounds | black screen | ep. 16 i used to work in a municipal records office on the third floor of a brick building. it was a temporary job, filing old property taxes from the seventies.">
+  <div class="grid"><a class="card" href="./ep-018-no-ads-5-minutes-of-true-scary-stories.html" data-find="no ads 🛑 5 minutes of true scary stories for sleep | rain sounds | black screen | ep. 18 i moved into that third-floor place back in october. it was a small apartment with high ceilings and a radiator that hissed whenever the heat kicked on, but it felt solid enough…">
+  <div class="cov"><span class="ep">EP 18</span><img src="https://i.ytimg.com/vi/ba8CHXte7dU/hqdefault.jpg" alt="" loading="lazy"></div>
+  <div class="body">
+    <h3>TRUE Scary Stories for Sleep</h3>
+    <p>I moved into that third-floor place back in October. It was a small apartment with high ceilings and a radiator that hissed whenever the heat kicked on, but it felt solid enough…</p>
+    <div class="foot"><span>1 story</span><span>▶ Video</span></div>
+  </div>
+</a><a class="card" href="./ep-016-no-ads-5-minutes-of-true-scary-stories.html" data-find="no ads 🛑 5 minutes of true scary stories for sleep | rain sounds | black screen | ep. 16 i used to work in a municipal records office on the third floor of a brick building. it was a temporary job, filing old property taxes from the seventies.">
   <div class="cov"><span class="ep">EP 16</span><img src="https://i.ytimg.com/vi/ULiqlUhk4u8/hqdefault.jpg" alt="" loading="lazy"></div>
   <div class="body">
     <h3>TRUE Scary Stories for Sleep</h3>
@@ -281,6 +331,7 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
   <p>Original fiction, written and narrated for Lacuna Noir. Any resemblance to real people or events is coincidental.</p>
   <div class="rule-strip">Dark · Quiet · Story</div>
 </div></footer>
+<script type="application/json" id="pick-data">[{"slug":"ep-018-no-ads-5-minutes-of-true-scary-stories","episode":18,"display":"NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 18","youtubeId":"ba8CHXte7dU","storyList":[{"n":1,"title":"The Third Key","minutes":3}]}]</script>
 <script>
 (function(){
   var q=document.getElementById('q');if(!q)return;
@@ -295,6 +346,73 @@ footer a{color:var(--dim)}footer a:hover{color:var(--accent)}
     });
     if(pager)pager.style.display=s?'none':'';
     if(count)count.textContent=s?(n+' on this page'):base;
+  });
+})();
+
+(function(){
+  var el=document.getElementById('pick-data'); if(!el) return;
+  var eps=[]; try{ eps=JSON.parse(el.textContent||'[]'); }catch(e){ return; }
+  var all=[];
+  eps.forEach(function(e){
+    (e.storyList||[]).forEach(function(s){
+      all.push({ slug:e.slug, ep:e.episode, epTitle:e.display||e.title, yt:e.youtubeId,
+                 n:s.n, title:s.title, minutes:s.minutes||1 });
+    });
+  });
+  if(!all.length) return;
+  document.body.classList.add('js-pick');
+
+  var out=document.getElementById('pick-out');
+  var btns=[].slice.call(document.querySelectorAll('.pick .opts button'));
+  // Remember the last pick so a second click gives a DIFFERENT story rather
+  // than the same one again, which reads as a broken button.
+  var last='';
+
+  function inBand(s,lo,hi){ return s.minutes>=lo && (hi===0 || s.minutes<=hi); }
+
+  function show(s){
+    out.textContent='';
+    var a=document.createElement('a'); a.href='./'+s.slug+'.html#s'+s.n;
+    if(s.yt){
+      var c=document.createElement('div'); c.className='cov';
+      var im=document.createElement('img'); im.loading='lazy'; im.alt='';
+      im.src='https://i.ytimg.com/vi/'+encodeURIComponent(s.yt)+'/hqdefault.jpg';
+      c.appendChild(im); a.appendChild(c);
+    }
+    var box=document.createElement('div');
+    var k=document.createElement('div'); k.className='k'; k.textContent=s.minutes+' min read';
+    var t=document.createElement('div'); t.className='t'; t.textContent=s.title;
+    var sub=document.createElement('div'); sub.className='s';
+    sub.textContent='Story '+s.n+' of Episode '+s.ep+' — '+s.epTitle;
+    box.appendChild(k); box.appendChild(t); box.appendChild(sub);
+    a.appendChild(box); out.appendChild(a);
+  }
+
+  function pick(lo,hi,btn){
+    btns.forEach(function(b){ b.classList.toggle('on', b===btn); });
+    var pool=all.filter(function(s){ return inBand(s,lo,hi); });
+    // Nothing in the band is a real answer on a young channel, and saying so
+    // beats silently handing back something of the wrong length.
+    if(!pool.length){
+      out.textContent='';
+      var p=document.createElement('p'); p.className='none';
+      // The message has to match the BAND. "Nothing that short" under a button
+      // asking for long stories reads as a broken page.
+      p.textContent = (lo>0 && hi===0) ? 'Nothing that long yet — try a shorter one.'
+        : (lo===0 && hi>0) ? 'Nothing that short yet — try a longer one.'
+        : 'Nothing that length yet — try another.';
+      out.appendChild(p); return;
+    }
+    var fresh=pool.length>1 ? pool.filter(function(s){ return (s.slug+'#'+s.n)!==last; }) : pool;
+    var s=fresh[Math.floor(Math.random()*fresh.length)];
+    last=s.slug+'#'+s.n;
+    show(s);
+  }
+
+  btns.forEach(function(b){
+    b.addEventListener('click',function(){
+      pick(parseInt(b.getAttribute('data-lo'),10)||0, parseInt(b.getAttribute('data-hi'),10)||0, b);
+    });
   });
 })();
 </script>
