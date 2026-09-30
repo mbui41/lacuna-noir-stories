@@ -68,6 +68,23 @@
       "publishedAt": "2026-09-30T00:32:03.218Z",
       "youtubeId": "ULiqlUhk4u8",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 18,
+      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 18",
+      "slug": "ep-018-no-ads-5-minutes-of-true-scary-stories",
+      "blurb": "I moved into that third-floor place back in October. It was a small apartment with high ceilings and a radiator that hissed whenever the heat kicked on, but it felt solid enough…",
+      "stories": 1,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Third Key",
+          "minutes": 3
+        }
+      ],
+      "publishedAt": "2026-09-30T02:29:26.682Z",
+      "youtubeId": "ba8CHXte7dU",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
