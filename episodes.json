@@ -102,6 +102,23 @@
       "publishedAt": "2026-10-02T01:48:26.226Z",
       "youtubeId": "lVzZvmQz61c",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 20,
+      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 20",
+      "slug": "ep-020-no-ads-5-minutes-of-true-scary-stories",
+      "blurb": "I moved out to that place near the county line because I wanted the silence. It was a small house with a narrow hallway that connected the bedroom to the kitchen.",
+      "stories": 1,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Third Cup",
+          "minutes": 3
+        }
+      ],
+      "publishedAt": "2026-10-02T02:01:13.237Z",
+      "youtubeId": "YKqjZu2MpkA",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
