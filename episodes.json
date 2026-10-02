@@ -85,6 +85,23 @@
       "publishedAt": "2026-09-30T02:29:26.682Z",
       "youtubeId": "ba8CHXte7dU",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 19,
+      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 19",
+      "slug": "ep-019-no-ads-5-minutes-of-true-scary-stories",
+      "blurb": "I live in a small apartment on the fourth floor, right at the end of the hall. It is a quiet place with old radiators that hiss and a window that looks out over the parking lot.",
+      "stories": 1,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Third Cup",
+          "minutes": 3
+        }
+      ],
+      "publishedAt": "2026-10-02T01:48:26.226Z",
+      "youtubeId": "lVzZvmQz61c",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
