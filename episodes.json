@@ -136,6 +136,63 @@
       "publishedAt": "2026-10-04T15:25:01.541Z",
       "youtubeId": "kQ_chF78ctU",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 2,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 2",
+      "slug": "ep-002-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I moved into that apartment on the fourth floor back in October.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Third Cup",
+          "minutes": 8
+        },
+        {
+          "n": 2,
+          "title": "The Quiet Passenger",
+          "minutes": 8
+        },
+        {
+          "n": 3,
+          "title": "The Midnight Gardener",
+          "minutes": 8
+        },
+        {
+          "n": 4,
+          "title": "The Unfinished Room",
+          "minutes": 7
+        },
+        {
+          "n": 5,
+          "title": "The Taped Boxes",
+          "minutes": 8
+        },
+        {
+          "n": 6,
+          "title": "The Extra Key",
+          "minutes": 9
+        },
+        {
+          "n": 7,
+          "title": "The Static Channel",
+          "minutes": 7
+        },
+        {
+          "n": 8,
+          "title": "The Standing Man",
+          "minutes": 7
+        },
+        {
+          "n": 9,
+          "title": "The Blue Light",
+          "minutes": 17
+        }
+      ],
+      "publishedAt": "2026-10-04T18:03:54.975Z",
+      "youtubeId": "dWkK1TX8ikA",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
