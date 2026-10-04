@@ -119,6 +119,23 @@
       "publishedAt": "2026-10-02T02:01:13.237Z",
       "youtubeId": "YKqjZu2MpkA",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 1,
+      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 1",
+      "slug": "ep-001-no-ads-5-minutes-of-true-scary-stories",
+      "blurb": "I’ve been in this house at the end of the dead-end street for three years now.",
+      "stories": 1,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Third Light Switch",
+          "minutes": 3
+        }
+      ],
+      "publishedAt": "2026-10-04T15:25:01.541Z",
+      "youtubeId": "kQ_chF78ctU",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
