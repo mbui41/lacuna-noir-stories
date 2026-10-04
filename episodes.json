@@ -193,6 +193,63 @@
       "publishedAt": "2026-10-04T18:03:54.975Z",
       "youtubeId": "dWkK1TX8ikA",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 3,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 3",
+      "slug": "ep-003-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the community pool because I needed the extra money and I like the quiet of the early hours.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Skimming Net",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The Dry Pavement",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Tea Service",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Half-Filled Tank",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Weight of Volumes",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Eleventh Floor",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Frosted Glass",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Rest Stop",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "Gate B-12",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-04T21:13:16.613Z",
+      "youtubeId": "zfeqMgDt0zI",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
