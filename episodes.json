@@ -250,6 +250,63 @@
       "publishedAt": "2026-10-04T21:13:16.613Z",
       "youtubeId": "zfeqMgDt0zI",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 4,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 4",
+      "slug": "ep-004-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "You should probably close your eyes now if you haven't already.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Drifting Lantern",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Humid Pane",
+          "minutes": 10
+        },
+        {
+          "n": 3,
+          "title": "The Gallery Guest",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Lower Deck Protocol",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Midnight Ledger",
+          "minutes": 9
+        },
+        {
+          "n": 6,
+          "title": "The Tiled Exit",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Minute at the Gate",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Catalogued Attic",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Paved Cul-de-Sac",
+          "minutes": 10
+        }
+      ],
+      "publishedAt": "2026-10-04T22:38:48.727Z",
+      "youtubeId": "ko9dyJSK3RY",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
