@@ -1,15 +1,6 @@
 {
   "episodes": [
     {
-      "episode": 10,
-      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 10",
-      "slug": "ep-010-no-ads-5-minutes-of-true-scary-stories",
-      "blurb": "I moved into that studio back in October because the rent was low and it was close to my job.",
-      "stories": 1,
-      "publishedAt": "2026-09-28T19:21:10.743Z",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 11,
       "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 11",
       "slug": "ep-011-no-ads-5-minutes-of-true-scary-stories",
@@ -591,6 +582,63 @@
       ],
       "publishedAt": "2026-10-05T18:33:38.597Z",
       "youtubeId": "JXkEYY88Xus",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 10,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 10",
+      "slug": "ep-010-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I know how it feels when the light starts to thin out around five o'clock. You're lying there now, and the room is settling into that blue shade, and everything feels very still.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Harvest Registry",
+          "minutes": 14
+        },
+        {
+          "n": 2,
+          "title": "The Drift in the Cubicles",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Localized Front",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Passenger at the Rest Stop",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Watchman's Shadow",
+          "minutes": 10
+        },
+        {
+          "n": 6,
+          "title": "The Unearned Remorse",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Estate Inventory",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Hidden Wing",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Long Exit",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-05T21:17:04.704Z",
+      "youtubeId": "BuIMLHzwBPo",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
