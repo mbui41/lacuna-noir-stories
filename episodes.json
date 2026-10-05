@@ -307,6 +307,63 @@
       "publishedAt": "2026-10-04T22:38:48.727Z",
       "youtubeId": "ko9dyJSK3RY",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 5,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 5",
+      "slug": "ep-005-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I had been out on the water for three days when I finally dropped anchor in that cove.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Cabin Receiver",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Foundation Stone",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Fern Shift",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Mapped Void",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Localized Front",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Constant Commuter",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Threshold of the Screen",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Resonant Hour",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Shift in the Loop",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-05T01:18:54.414Z",
+      "youtubeId": "ha2BftVWgGA",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
