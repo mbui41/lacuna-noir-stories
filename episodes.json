@@ -478,6 +478,63 @@
       "publishedAt": "2026-10-05T05:57:02.233Z",
       "youtubeId": "s6iuMe-pqyE",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 8,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 8",
+      "slug": "ep-008-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "The High Lodge is a quiet place in the late fall, just before the first heavy snows bring the guests up the mountain.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Threshold of the High Lodge",
+          "minutes": 14
+        },
+        {
+          "n": 2,
+          "title": "The Interstate of Stalled Moments",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Apology in the Booth",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Occupied Motel",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Lighthouse Geometry",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Archive of Altered Views",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Ferryman's Tally",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Platform at Elder Junction",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Caretaker's Revision",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-05T15:14:07.300Z",
+      "youtubeId": "uriCbLOnHd8",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
