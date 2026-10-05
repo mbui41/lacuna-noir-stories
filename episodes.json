@@ -535,6 +535,63 @@
       "publishedAt": "2026-10-05T15:14:07.300Z",
       "youtubeId": "uriCbLOnHd8",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 9,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 9",
+      "slug": "ep-009-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I started working the night shift at the municipal garage about six months ago.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Booth on Level Four",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Room at the End of the Road",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Framing of Willow Creek",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Resonance in the Stacks",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Drift at the Front Desk",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Inventory of the Attic",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Geometry of the Rest Stop",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Shift Change Signature",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Lookout's Intercom",
+          "minutes": 14
+        }
+      ],
+      "publishedAt": "2026-10-05T18:33:38.597Z",
+      "youtubeId": "JXkEYY88Xus",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
