@@ -364,6 +364,63 @@
       "publishedAt": "2026-10-05T01:18:54.414Z",
       "youtubeId": "ha2BftVWgGA",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 6,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 6",
+      "slug": "ep-006-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I used to work the graveyard shift at a self-storage facility on the edge of town.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Corridors of Static",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Boundary at Mile 44",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Echo in the Queue",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Finished Exhibit",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Residual Library",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Lobby Protocol",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Gate of Regrets",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Drifting Stand",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Knowledge of the Key",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-05T03:04:23.884Z",
+      "youtubeId": "c01QrYIab9I",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
