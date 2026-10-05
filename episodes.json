@@ -421,6 +421,63 @@
       "publishedAt": "2026-10-05T03:04:23.884Z",
       "youtubeId": "c01QrYIab9I",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 7,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 7",
+      "slug": "ep-007-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I usually leave my apartment around ten o'clock on Tuesday nights.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Laundry Ledger",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Unspoken Setback",
+          "minutes": 15
+        },
+        {
+          "n": 3,
+          "title": "The Incremental Distance",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Recorded Gradient",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Archivist's Gait",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Midnight Recurrence",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Occupant Above",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Early Projectionist",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Misdirected Arrival",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-05T05:57:02.233Z",
+      "youtubeId": "s6iuMe-pqyE",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
