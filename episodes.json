@@ -1,16 +1,6 @@
 {
   "episodes": [
     {
-      "episode": 14,
-      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 14",
-      "slug": "ep-014-no-ads-5-minutes-of-true-scary-stories",
-      "blurb": "I took the job at the archives because I like the quiet. The building is at the very end of a dead-end street, surrounded by trees that don't move much in the wind.",
-      "stories": 1,
-      "publishedAt": "2026-09-29T20:26:59.269Z",
-      "youtubeId": "Gkh9N-s8KTA",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 15,
       "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 15",
       "slug": "ep-015-no-ads-5-minutes-of-true-scary-stories",
@@ -780,6 +770,63 @@
       ],
       "publishedAt": "2026-10-06T07:13:34.041Z",
       "youtubeId": "kHm2i3vxYlk",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 14,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 14",
+      "slug": "ep-014-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I’ve been driving the same route for about six years now, mostly flat stretches between two distribution hubs.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Freight Signature",
+          "minutes": 14
+        },
+        {
+          "n": 2,
+          "title": "The Early Relief",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Localized Front",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Missing Frequency",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Traveler’s Knowledge",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Vacancy Correspondence",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Living Room Drift",
+          "minutes": 10
+        },
+        {
+          "n": 8,
+          "title": "The Harvest Discrepancy",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Third Corridor Protocol",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-06T07:36:20.545Z",
+      "youtubeId": "RghnP67bLxU",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
