@@ -1099,6 +1099,63 @@
       "publishedAt": "2026-10-06T18:25:18.826Z",
       "youtubeId": "iGGafvUwOPw",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 21,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 21",
+      "slug": "ep-021-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I had been out of work for about three months when Elias called me.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Assigned Task",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Gate 14 Interval",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Deep End Lap",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Unit Discrepancy",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Greenhouse Shift",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Caretaker's Note",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Toll Booth Log",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Room 4 Echo",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Projectionist's Path",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-06T20:22:06.489Z",
+      "youtubeId": "LRHBAG6g7ts",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
