@@ -1,16 +1,6 @@
 {
   "episodes": [
     {
-      "episode": 15,
-      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 15",
-      "slug": "ep-015-no-ads-5-minutes-of-true-scary-stories",
-      "blurb": "I lived on the twelfth floor of that building for three years. It was an old place, and the elevators were always broken, so I stayed on my floor as much as I could.",
-      "stories": 1,
-      "publishedAt": "2026-09-29T20:51:11.534Z",
-      "youtubeId": "qgSNIvm6h1c",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 16,
       "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 16",
       "slug": "ep-016-no-ads-5-minutes-of-true-scary-stories",
@@ -827,6 +817,63 @@
       ],
       "publishedAt": "2026-10-06T07:36:20.545Z",
       "youtubeId": "RghnP67bLxU",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 15,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 15",
+      "slug": "ep-015-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I picked this spot because it was cheap and far away from anyone else. It was just a small clearing at the edge of an old pine forest, about three hours from the nearest city.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Apology in the Undergrowth",
+          "minutes": 14
+        },
+        {
+          "n": 2,
+          "title": "The Inventory of the Glass House",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The First Arrival",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Log of the Third Level",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Threshold at Lot Twelve",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Name on the Lantern Room",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Drifting Nightstand",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Midnight Circuit",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Perimeter Expansion",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-06T09:11:30.422Z",
+      "youtubeId": "Dfbaz5Hcr5Q",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
