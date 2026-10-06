@@ -1,16 +1,6 @@
 {
   "episodes": [
     {
-      "episode": 16,
-      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 16",
-      "slug": "ep-016-no-ads-5-minutes-of-true-scary-stories",
-      "blurb": "I used to work in a municipal records office on the third floor of a brick building. It was a temporary job, filing old property taxes from the seventies.",
-      "stories": 1,
-      "publishedAt": "2026-09-30T00:32:03.218Z",
-      "youtubeId": "ULiqlUhk4u8",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 18,
       "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 18",
       "slug": "ep-018-no-ads-5-minutes-of-true-scary-stories",
@@ -874,6 +864,63 @@
       ],
       "publishedAt": "2026-10-06T09:11:30.422Z",
       "youtubeId": "Dfbaz5Hcr5Q",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 16,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 16",
+      "slug": "ep-016-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job because I needed the silence and the extra money.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Anchored Deck",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The Floor Count",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Scheduled Vibration",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Bunkmate's Observation",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Valley Beacon",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Passenger's Rhythm",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Library Microclimate",
+          "minutes": 10
+        },
+        {
+          "n": 8,
+          "title": "The Station Designation",
+          "minutes": 10
+        },
+        {
+          "n": 9,
+          "title": "The Pasture Boundary",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-06T10:15:43.811Z",
+      "youtubeId": "tbpzMLENr38",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
