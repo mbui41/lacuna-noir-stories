@@ -1,23 +1,6 @@
 {
   "episodes": [
     {
-      "episode": 18,
-      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 18",
-      "slug": "ep-018-no-ads-5-minutes-of-true-scary-stories",
-      "blurb": "I moved into that third-floor place back in October. It was a small apartment with high ceilings and a radiator that hissed whenever the heat kicked on, but it felt solid enough…",
-      "stories": 1,
-      "storyList": [
-        {
-          "n": 1,
-          "title": "The Third Key",
-          "minutes": 3
-        }
-      ],
-      "publishedAt": "2026-09-30T02:29:26.682Z",
-      "youtubeId": "ba8CHXte7dU",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 19,
       "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 19",
       "slug": "ep-019-no-ads-5-minutes-of-true-scary-stories",
@@ -978,6 +961,63 @@
       ],
       "publishedAt": "2026-10-06T11:51:38.345Z",
       "youtubeId": "ziZVSj3uF1Y",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 18,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 18",
+      "slug": "ep-018-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I usually start my shift at the community pool around ten in the evening.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Deep End Detail",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Sleeper Cab Light",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Midnight Anchor Chain",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Cyclist’s Negative",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Catalogued Replacement",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Transmitter Exit",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Occupancy Variance",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Business Park Stasis",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Keeper’s Loop",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-06T14:41:34.630Z",
+      "youtubeId": "EheTKcXbmv4",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
