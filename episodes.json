@@ -1213,6 +1213,63 @@
       "publishedAt": "2026-10-06T21:53:25.780Z",
       "youtubeId": "HkVwI6BW48Q",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 23,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 23",
+      "slug": "ep-023-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I know you're trying to drift off, so I’ll keep my voice down. I just wanted to tell you about that job I took last autumn, the one at the bookstore in the old quarter.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Finished Inventory",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Interior Alcove",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Social Guest",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Silent Playback",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Abandoned Perimeter",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Projectionist's Discrepancy",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Keeper's Interval",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Groundsman's Marker",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Arctic Atonement",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-06T22:29:44.178Z",
+      "youtubeId": "FusdFxod2Uo",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
