@@ -1156,6 +1156,63 @@
       "publishedAt": "2026-10-06T20:22:06.489Z",
       "youtubeId": "LRHBAG6g7ts",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 22,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 22",
+      "slug": "ep-022-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I think it was around two in the morning when the gate agent finally stopped making announcements.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Terminal Boundary",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Upper Deck Archive",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Valley Grid",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Projectionist’s Interval",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Perimeter Drift",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Unspoken Regret",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Janitor’s Ledger",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Porch Guest",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Intake Ledger",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-06T21:53:25.780Z",
+      "youtubeId": "HkVwI6BW48Q",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
