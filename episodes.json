@@ -1,16 +1,6 @@
 {
   "episodes": [
     {
-      "episode": 11,
-      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 11",
-      "slug": "ep-011-no-ads-5-minutes-of-true-scary-stories",
-      "blurb": "I live in a house at the end of a cul-de-sac. It is a quiet place where the only sound is the refrigerator hum and the wind in the vents.",
-      "stories": 1,
-      "publishedAt": "2026-09-29T00:44:58.832Z",
-      "youtubeId": "ur704nptonA",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 12,
       "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 12",
       "slug": "ep-012-no-ads-5-minutes-of-true-scary-stories",
@@ -639,6 +629,63 @@
       ],
       "publishedAt": "2026-10-05T21:17:04.704Z",
       "youtubeId": "BuIMLHzwBPo",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 11,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 11",
+      "slug": "ep-011-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the business park because I wanted the quiet.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Infinite Loop at Gate Four",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Shopkeep's Debt",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Uneven Inventory",
+          "minutes": 14
+        },
+        {
+          "n": 4,
+          "title": "The Archive of Personal Details",
+          "minutes": 15
+        },
+        {
+          "n": 5,
+          "title": "The Dry Basin",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Static Frame",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Boundary at Pump Six",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Platform Protocol",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Manifest on the Water",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-06T01:48:02.619Z",
+      "youtubeId": "OYMwRLdEVAM",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
