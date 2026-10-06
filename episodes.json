@@ -1,16 +1,6 @@
 {
   "episodes": [
     {
-      "episode": 12,
-      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 12",
-      "slug": "ep-012-no-ads-5-minutes-of-true-scary-stories",
-      "blurb": "I took that job because I needed the silence. It was a new office park, all glass and gray carpet, about twenty minutes outside of town.",
-      "stories": 1,
-      "publishedAt": "2026-09-29T02:47:45.054Z",
-      "youtubeId": "pUT-nVtKkaQ",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 13,
       "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 13",
       "slug": "ep-013-no-ads-5-minutes-of-true-scary-stories",
@@ -686,6 +676,63 @@
       ],
       "publishedAt": "2026-10-06T01:48:02.619Z",
       "youtubeId": "OYMwRLdEVAM",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 12,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 12",
+      "slug": "ep-012-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I’ve been the caretaker for the Brickwood apartments for about six years now.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Early Occupant",
+          "minutes": 10
+        },
+        {
+          "n": 2,
+          "title": "The Recurring Hallway",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Laundry Exit",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Gate C Departure",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Unfamiliar Ledger",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Attendant's Visitor",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Studio Drift",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Church Hall Correspondence",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Storage Unit Pulse",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-06T02:49:20.151Z",
+      "youtubeId": "IEk5R9v7ZxI",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
