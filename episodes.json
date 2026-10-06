@@ -922,6 +922,63 @@
       "publishedAt": "2026-10-06T10:15:43.811Z",
       "youtubeId": "tbpzMLENr38",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 17,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 17",
+      "slug": "ep-017-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I started working at the municipal archives about three months ago.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Archivist's Echo",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Localized Drift",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Unfinished House",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Leasehold Correction",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Eleventh Floor Protocol",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Laundromat Litany",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Clockwork Resonator",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Campsite Coordinates",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Anchor Light",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-06T11:51:38.345Z",
+      "youtubeId": "ziZVSj3uF1Y",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
