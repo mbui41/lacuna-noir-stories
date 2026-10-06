@@ -1,23 +1,6 @@
 {
   "episodes": [
     {
-      "episode": 20,
-      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 20",
-      "slug": "ep-020-no-ads-5-minutes-of-true-scary-stories",
-      "blurb": "I moved out to that place near the county line because I wanted the silence. It was a small house with a narrow hallway that connected the bedroom to the kitchen.",
-      "stories": 1,
-      "storyList": [
-        {
-          "n": 1,
-          "title": "The Third Cup",
-          "minutes": 3
-        }
-      ],
-      "publishedAt": "2026-10-02T02:01:13.237Z",
-      "youtubeId": "YKqjZu2MpkA",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 1,
       "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 1",
       "slug": "ep-001-no-ads-5-minutes-of-true-scary-stories",
@@ -1058,6 +1041,63 @@
       ],
       "publishedAt": "2026-10-06T16:23:12.194Z",
       "youtubeId": "eDcjFadqsm0",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 20,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 20",
+      "slug": "ep-020-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I’m not a sailor, but I can follow instructions, and the owner is a friend of mine.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Logbook Inversion",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Preceded Keeper",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Premature Apology",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Occupied Cabin",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Threshold Boundary",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Impossible Ward",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Recurrence Carriage",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Disputed Harvest",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Attendant’s Cadence",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-06T18:25:18.826Z",
+      "youtubeId": "iGGafvUwOPw",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
