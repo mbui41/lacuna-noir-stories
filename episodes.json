@@ -1,16 +1,6 @@
 {
   "episodes": [
     {
-      "episode": 13,
-      "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 13",
-      "slug": "ep-013-no-ads-5-minutes-of-true-scary-stories",
-      "blurb": "I was house-sitting for a friend of a friend last October. The place was one of those new, glass-walled houses out in the woods, very quiet and very modern.",
-      "stories": 1,
-      "publishedAt": "2026-09-29T18:48:14.262Z",
-      "youtubeId": "bWGqpYffN_I",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 14,
       "title": "NO ADS 🛑 5 MINUTES of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 14",
       "slug": "ep-014-no-ads-5-minutes-of-true-scary-stories",
@@ -733,6 +723,63 @@
       ],
       "publishedAt": "2026-10-06T02:49:20.151Z",
       "youtubeId": "IEk5R9v7ZxI",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 13,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 13",
+      "slug": "ep-013-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I finally decided to take that week off and drive up to the northern edge of the park.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Signal at the Treeline",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The Drift in the Stacks",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Static on the Deck",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Lodge Interval",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Localized Storm",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Dormitory Corridor",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Station Logs",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Caller's Memory",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Completed Harvest",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-06T07:13:34.041Z",
+      "youtubeId": "kHm2i3vxYlk",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
