@@ -1384,6 +1384,63 @@
       "publishedAt": "2026-10-07T04:38:03.764Z",
       "youtubeId": "JshRcsmt2A8",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 26,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 26",
+      "slug": "ep-026-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I used to work the graveyard shift at a surgical recovery ward on the fourth floor.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Unattended Rounds",
+          "minutes": 14
+        },
+        {
+          "n": 2,
+          "title": "The Rest Stop Regular",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Localized Front",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Platform Perspective",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Caretaker's Completion",
+          "minutes": 10
+        },
+        {
+          "n": 6,
+          "title": "The Forwarded Warnings",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Premature Regret",
+          "minutes": 10
+        },
+        {
+          "n": 8,
+          "title": "The Drifting Marker",
+          "minutes": 9
+        },
+        {
+          "n": 9,
+          "title": "The Lookout's Annex",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-07T06:18:35.368Z",
+      "youtubeId": "RAXif3yQcis",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
