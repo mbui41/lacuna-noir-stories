@@ -1840,6 +1840,63 @@
       "publishedAt": "2026-10-07T21:08:36.065Z",
       "youtubeId": "1-cnJaVjU2c",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 34,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 34",
+      "slug": "ep-034-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I was sitting on one of those bolted-down chairs at Gate 14, just waiting.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Gate 14 Pager",
+          "minutes": 10
+        },
+        {
+          "n": 2,
+          "title": "The Attendant's Ledger",
+          "minutes": 14
+        },
+        {
+          "n": 3,
+          "title": "The Migration of Room 6",
+          "minutes": 10
+        },
+        {
+          "n": 4,
+          "title": "The Three-Minute Loop",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Silent Extension",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Interior Alcove",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Mid-Shift Absence",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Lower Deck Glow",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Deep End Shadow",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-07T22:19:17.874Z",
+      "youtubeId": "48YPaf97iO0",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
