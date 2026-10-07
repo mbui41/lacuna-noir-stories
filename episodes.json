@@ -1441,6 +1441,63 @@
       "publishedAt": "2026-10-07T06:18:35.368Z",
       "youtubeId": "RAXif3yQcis",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 27,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 27",
+      "slug": "ep-027-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the community pool because I needed the silence.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Shallow End Protocol",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Boundary of the Records",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Attendant's Receipt",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Caretaker’s Corridor",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Mid-Task Lodge",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Dashboard Perspective",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Inventory of the Hall",
+          "minutes": 10
+        },
+        {
+          "n": 8,
+          "title": "The Completed Log",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Repeating Gate",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-07T07:59:20.606Z",
+      "youtubeId": "K_6HEmZW548",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
