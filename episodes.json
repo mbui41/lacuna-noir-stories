@@ -1612,6 +1612,63 @@
       "publishedAt": "2026-10-07T10:25:09.895Z",
       "youtubeId": "iz8LnbJxVJs",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 30,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 30",
+      "slug": "ep-030-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I know you are trying to rest, so I will keep my voice down. I just need to tell someone about what happened at the motel last night before I try to sleep myself.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Room Between Four and Five",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Lodge Roster",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Incremental Interstate",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Microclimate Archive",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Toll Booth Detail",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Projectionist's Exit",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Duplicate Data",
+          "minutes": 10
+        },
+        {
+          "n": 8,
+          "title": "The Hallway Threshold",
+          "minutes": 10
+        },
+        {
+          "n": 9,
+          "title": "The Studio Playback",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-07T15:21:34.587Z",
+      "youtubeId": "cT9qeNDDeNc",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
