@@ -1897,6 +1897,63 @@
       "publishedAt": "2026-10-07T22:19:17.874Z",
       "youtubeId": "48YPaf97iO0",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 35,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 35",
+      "slug": "ep-035-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I’ve worked the closing shift at the university library for three years now.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Stacks at Three AM",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Midnight Rattle",
+          "minutes": 9
+        },
+        {
+          "n": 3,
+          "title": "The Harvest Ledger",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Glass Tower Memo",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Guestbook Discrepancy",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Storage Unit Climate",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Completed Intake",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The CB Radio Inquiry",
+          "minutes": 14
+        },
+        {
+          "n": 9,
+          "title": "The Third Latch Rule",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-07T23:01:52.105Z",
+      "youtubeId": "9psJK2L1NzI",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
