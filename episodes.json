@@ -1270,6 +1270,63 @@
       "publishedAt": "2026-10-06T22:29:44.178Z",
       "youtubeId": "FusdFxod2Uo",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 24,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 24",
+      "slug": "ep-024-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the motel because I wanted to be alone with my thoughts.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Toll of the Vacant Road",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Greenhouse Atonement",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Threshold at the Hallway",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Guestbook Discrepancy",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Misplaced Correspondence",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Midnight Admission",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Early Arrival",
+          "minutes": 14
+        },
+        {
+          "n": 8,
+          "title": "The Recurring Crossing",
+          "minutes": 10
+        },
+        {
+          "n": 9,
+          "title": "The Leftover Routine",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-07T02:51:23.315Z",
+      "youtubeId": "lZFtyyEg77s",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
