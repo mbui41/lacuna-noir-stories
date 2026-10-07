@@ -1555,6 +1555,63 @@
       "publishedAt": "2026-10-07T09:40:05.554Z",
       "youtubeId": "FP2bZrCIdzY",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 29,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 29",
+      "slug": "ep-029-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I work at a regional call center, one of those huge metal buildings on the edge of town where the parking lot is always too big for the cars left in it.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Shared Workspace",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The Lookout’s Ledger",
+          "minutes": 10
+        },
+        {
+          "n": 3,
+          "title": "The Gate 14 Vestibule",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Missing Index",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Visitor at the Verge",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Gatehouse Loop",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Apology at Mile 92",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Completed Chart",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Dashboard Reflection",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-07T10:25:09.895Z",
+      "youtubeId": "iz8LnbJxVJs",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
