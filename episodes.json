@@ -1669,6 +1669,63 @@
       "publishedAt": "2026-10-07T15:21:34.587Z",
       "youtubeId": "cT9qeNDDeNc",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 31,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 31",
+      "slug": "ep-031-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I think it is the silence that gets to you first when the winter really settles in.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Permafrost Record",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The Logistics Park Tally",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Drift on the Ridge",
+          "minutes": 10
+        },
+        {
+          "n": 4,
+          "title": "The Projectionist's Reel",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Echo in Ward B",
+          "minutes": 10
+        },
+        {
+          "n": 6,
+          "title": "The Threshold at the Landing",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Unfinished Site",
+          "minutes": 14
+        },
+        {
+          "n": 8,
+          "title": "The Passenger at the Pump",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Anchor Watch",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-07T17:17:13.406Z",
+      "youtubeId": "A6s6h_YOBYE",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
