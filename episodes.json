@@ -1498,6 +1498,63 @@
       "publishedAt": "2026-10-07T07:59:20.606Z",
       "youtubeId": "K_6HEmZW548",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 28,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 28",
+      "slug": "ep-028-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "The night shift on the channel crossing is mostly about the silence and the vibration of the engines through your boots. I usually spend the hours between midnight and four a.m.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Upper Deck Light",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Sleeper Car Ticket",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Repeating Afternoon",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Vernal Equinox Visitor",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Garage Perimeter",
+          "minutes": 14
+        },
+        {
+          "n": 6,
+          "title": "The Archive Log",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Tundra Exchange",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Finished Task",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Valley Apology",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-07T09:40:05.554Z",
+      "youtubeId": "FP2bZrCIdzY",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
