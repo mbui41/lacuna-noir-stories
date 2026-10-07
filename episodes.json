@@ -1327,6 +1327,63 @@
       "publishedAt": "2026-10-07T02:51:23.315Z",
       "youtubeId": "lZFtyyEg77s",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 25,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 25",
+      "slug": "ep-025-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I’ve worked the overnight shift on the bay ferry for six years now.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Fog Pocket",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Reference Shift",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Early Arrival",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Forest Boundary",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Apartment Above",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Reel Discrepancy",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Mountain Loop",
+          "minutes": 14
+        },
+        {
+          "n": 8,
+          "title": "The Night Count",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Station Log",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-07T04:38:03.764Z",
+      "youtubeId": "JshRcsmt2A8",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
