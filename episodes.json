@@ -1783,6 +1783,63 @@
       "publishedAt": "2026-10-07T19:17:43.921Z",
       "youtubeId": "3Uu7B4YhOsc",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 33,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 33",
+      "slug": "ep-033-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I used to work the late shift at the maritime museum on the edge of the harbor.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Gallery Rain",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Sign-In Sheet",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Three A.M. Cadence",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Misdirected File",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Threshold Habit",
+          "minutes": 10
+        },
+        {
+          "n": 6,
+          "title": "The Extending Coach",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Prepped Reels",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Drifting Crate",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Neighbor's Regret",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-07T21:08:36.065Z",
+      "youtubeId": "1-cnJaVjU2c",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
