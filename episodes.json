@@ -1726,6 +1726,63 @@
       "publishedAt": "2026-10-07T17:17:13.406Z",
       "youtubeId": "A6s6h_YOBYE",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 32,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 32",
+      "slug": "ep-032-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I think I started the drive around four in the afternoon. I remember the light was that flat, gray color it gets in late autumn, and I just wanted to get those six hours behind me…",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Wrong Recipient",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Threshold of the Tower",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Inventory of Stone",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Kitchen Calendar",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Anchor Watch",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Expanding Corridor",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Localized Gale",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Tapping at Level P3",
+          "minutes": 10
+        },
+        {
+          "n": 9,
+          "title": "The Registry Entry",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-07T19:17:43.921Z",
+      "youtubeId": "3Uu7B4YhOsc",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
