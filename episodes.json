@@ -2239,6 +2239,63 @@
       "publishedAt": "2026-10-08T10:48:21.587Z",
       "youtubeId": "9kiOv-m-MoE",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 38,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 38",
+      "slug": "ep-038-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the municipal archive because I needed the silence.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Registry Protocol",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The First Tenant",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Midnight Inventory",
+          "minutes": 10
+        },
+        {
+          "n": 4,
+          "title": "The Interstate Apology",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Drift of the Marker",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Logbook Discrepancy",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Hostel Guest",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Finished Reel",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Lighthouse Loop",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-08T05:11:32.510Z",
+      "youtubeId": "GzrzCj3UPLA",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
