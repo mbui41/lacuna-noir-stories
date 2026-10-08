@@ -2125,6 +2125,63 @@
       "publishedAt": "2026-10-08T05:43:07.309Z",
       "youtubeId": "WSxrTHrcCuk",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 41,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 41",
+      "slug": "ep-041-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I’ve worked the night shift at the desk for about three years now.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Registry Entry",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Completed Log",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Afternoon Loop",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Threshold Boundary",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Receding Exit",
+          "minutes": 14
+        },
+        {
+          "n": 6,
+          "title": "The Reception Monitor",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Drifting Ledger",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Misplaced Nameplate",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Quiet Perimeter",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-08T08:09:10.435Z",
+      "youtubeId": "JIBbygGLjn0",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
