@@ -1954,6 +1954,63 @@
       "publishedAt": "2026-10-07T23:01:52.105Z",
       "youtubeId": "9psJK2L1NzI",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 37,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 37",
+      "slug": "ep-037-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I am sitting in the sleeper carriage, the one that runs the long route down to the coast.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Carriage Window Reflection",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Threshold of Unit 408",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Reception Desk Resonance",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Terminal Radar",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Projectionist's Exit",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Architecture of the Stacks",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Midnight Protocol",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Unfinished Foundation",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Lodge Kitchen",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-08T02:51:26.202Z",
+      "youtubeId": "WTtYgHH-mVw",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
