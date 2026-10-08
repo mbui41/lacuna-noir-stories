@@ -2296,6 +2296,63 @@
       "publishedAt": "2026-10-08T05:11:32.510Z",
       "youtubeId": "GzrzCj3UPLA",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 44,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 44",
+      "slug": "ep-044-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I had been working on that old twenty-four-foot sailboat for three months before I finally decided to spend a night on it.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Anchored Apology",
+          "minutes": 14
+        },
+        {
+          "n": 2,
+          "title": "The Winter Tally",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Shift Log Variance",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Early Arrival",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Wrong Rider",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Unearned Detail",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Attendant's Observation",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Mid-Task Exit",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Playback Shift",
+          "minutes": 14
+        }
+      ],
+      "publishedAt": "2026-10-08T17:59:10.615Z",
+      "youtubeId": "3ewDAajmL5A",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
