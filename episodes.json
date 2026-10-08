@@ -2467,6 +2467,63 @@
       "publishedAt": "2026-10-08T21:30:46.321Z",
       "youtubeId": "LeayqYak6PI",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 47,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 47",
+      "slug": "ep-047-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I work the night shift at a hospital about forty minutes from where I live.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Recovery Discrepancy",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Repeat Dial",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Roster Replacement",
+          "minutes": 14
+        },
+        {
+          "n": 4,
+          "title": "The Neighbor's Absence",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Perimeter Path",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Laundry Apology",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Groundskeeper's Lens",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Shifting Suite",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Gate Pager",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-08T23:11:08.885Z",
+      "youtubeId": "YTOu7WdrSQo",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
