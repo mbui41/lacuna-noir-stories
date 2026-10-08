@@ -2182,6 +2182,63 @@
       "publishedAt": "2026-10-08T08:09:10.435Z",
       "youtubeId": "JIBbygGLjn0",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 43,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 43",
+      "slug": "ep-043-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job because I needed something quiet and I needed the health insurance.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Catalogued Depths",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The Cubicle Gap",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Toll Plaza Barrier",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Unfinished Stop",
+          "minutes": 10
+        },
+        {
+          "n": 5,
+          "title": "The 2:14 AM Resonance",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Cul-de-Sac Correspondence",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Isolated Rainfall",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Pre-Season Tape",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Ward Echo",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-08T10:48:21.587Z",
+      "youtubeId": "9kiOv-m-MoE",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
