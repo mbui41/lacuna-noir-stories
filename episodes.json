@@ -2410,6 +2410,63 @@
       "publishedAt": "2026-10-08T19:53:47.431Z",
       "youtubeId": "X2860Bkbt4s",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 46,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 46",
+      "slug": "ep-046-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I think you know the cabin I’m talking about. It belongs to my uncle, and it’s tucked so far back into those hemlocks that the sun doesn't really hit the porch until noon.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Glass on the Coaster",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Midnight Log",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Rhythmic Thud",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Desk Guest",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Boundary Line",
+          "minutes": 10
+        },
+        {
+          "n": 6,
+          "title": "The Curator's Pager",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Negative Shift",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The First Arrival",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Dry Clearing",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-08T21:30:46.321Z",
+      "youtubeId": "LeayqYak6PI",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
