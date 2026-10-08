@@ -2068,6 +2068,63 @@
       "publishedAt": "2026-10-08T01:04:00.334Z",
       "youtubeId": "yaCp4wKJCBA",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 39,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 39",
+      "slug": "ep-039-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I’ve worked the night shift at the municipal pool for about three years now.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Drained Deep End",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Guest at Room 10",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Valley Floor Lamp",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Studio Alcove",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Gallery Footfall",
+          "minutes": 14
+        },
+        {
+          "n": 6,
+          "title": "The Terminal Redirect",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Campfire Playback",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Agitator Cycle",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Corridor Escort",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-08T05:43:07.309Z",
+      "youtubeId": "WSxrTHrcCuk",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
