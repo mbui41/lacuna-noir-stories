@@ -2011,6 +2011,63 @@
       "publishedAt": "2026-10-08T02:51:26.202Z",
       "youtubeId": "WTtYgHH-mVw",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 36,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 36",
+      "slug": "ep-036-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I moved into the development in late October, when the sun was already starting to pull away from the days.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Cul-de-Sac Echo",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Corner of Room 4",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Lookout Log",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Validation Stamp",
+          "minutes": 14
+        },
+        {
+          "n": 5,
+          "title": "The Three-Minute Refresh",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Glasshouse Apology",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Pasture Line",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Berth Tally",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Localized Front",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-08T01:04:00.334Z",
+      "youtubeId": "yaCp4wKJCBA",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
