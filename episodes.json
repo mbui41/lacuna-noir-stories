@@ -2524,6 +2524,63 @@
       "publishedAt": "2026-10-08T23:11:08.885Z",
       "youtubeId": "YTOu7WdrSQo",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 48,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 48",
+      "slug": "ep-048-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I got to the mountain town around noon, which was way too early.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Occupied Bunk",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Terminal Playback",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Deck Hand's Gait",
+          "minutes": 10
+        },
+        {
+          "n": 4,
+          "title": "The Archive Threshold",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Oversight in the Ledger",
+          "minutes": 14
+        },
+        {
+          "n": 6,
+          "title": "The Finished Wick",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The 3:12 Interval",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Powered Suite",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Platform Exit",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-09T00:47:50.568Z",
+      "youtubeId": "iBUSWVoSc1o",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
