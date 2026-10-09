@@ -2695,6 +2695,63 @@
       "publishedAt": "2026-10-09T05:49:47.371Z",
       "youtubeId": "hY5b2AK8xr8",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 52,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 52",
+      "slug": "ep-052-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I think I was on my fourth day of that solo trip through the coastal hills.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Low Gear Protocol",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Sleeper Car Portrait",
+          "minutes": 14
+        },
+        {
+          "n": 3,
+          "title": "The Localized Gale",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Wrong Recipient",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Incremental Migration",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Unfinished Survey",
+          "minutes": 14
+        },
+        {
+          "n": 7,
+          "title": "The 2:40 AM Tap",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Archive Terrier",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Perimeter Circuit",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-09T07:41:48.507Z",
+      "youtubeId": "IQ1Pv7E-DhY",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
