@@ -2809,6 +2809,63 @@
       "publishedAt": "2026-10-09T09:23:03.527Z",
       "youtubeId": "s-6MzVGIoI8",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 54,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 54",
+      "slug": "ep-054-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I should tell you about the house first, so you can see it while you close your eyes.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Neighbor's Gait",
+          "minutes": 10
+        },
+        {
+          "n": 2,
+          "title": "The Upper Deck Mandate",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Displaced Entry",
+          "minutes": 14
+        },
+        {
+          "n": 4,
+          "title": "The Eleventh Bay",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Wrong Terminal",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Isolated Squall",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The 4:00 AM Consultation",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Orchard Circuit",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Cul-de-Sac Loop",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-09T11:08:21.772Z",
+      "youtubeId": "F6mSCQeN5Xs",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
