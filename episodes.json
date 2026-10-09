@@ -2638,6 +2638,63 @@
       "publishedAt": "2026-10-09T01:26:03.912Z",
       "youtubeId": "9nDuTt-KaIk",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 51,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 51",
+      "slug": "ep-051-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I usually start my shift at the museum around midnight, but the check of the Hall of Antiquities doesn't happen until two.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Inventory Discrepancy",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The Gravel Turnaround",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Canopy Pulse",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Station Clock Loop",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Misdirected Transcript",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Valet's Posture",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Log of the Unseen Smoke",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Forest Boundary",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Unfinished Task",
+          "minutes": 10
+        }
+      ],
+      "publishedAt": "2026-10-09T05:49:47.371Z",
+      "youtubeId": "hY5b2AK8xr8",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
