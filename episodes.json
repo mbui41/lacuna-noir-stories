@@ -2581,6 +2581,63 @@
       "publishedAt": "2026-10-09T00:47:50.568Z",
       "youtubeId": "iBUSWVoSc1o",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 49,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 49",
+      "slug": "ep-049-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I think I told you about that wholesale nursery where I worked the summer I turned twenty-two.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Glasshouse Circuit",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Framing Tally",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Border Standoff",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Hallway Courier",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Shift Roster",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Downhill Apology",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Observation Lens",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Interim Tenant",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Level Four Hum",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-09T01:26:03.912Z",
+      "youtubeId": "9nDuTt-KaIk",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
