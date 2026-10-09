@@ -2752,6 +2752,63 @@
       "publishedAt": "2026-10-09T07:41:48.507Z",
       "youtubeId": "IQ1Pv7E-DhY",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 53,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 53",
+      "slug": "ep-053-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I had a lot of work to do with these old family ledgers, and my apartment just didn't have the space.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Community Hall Transit",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Coastal Layover",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Dormitory Drift",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Interstate Intercom",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Cul-de-Sac Visitor",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Ward Boundary",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Midnight Log",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Gallery Resonance",
+          "minutes": 9
+        },
+        {
+          "n": 9,
+          "title": "The Ferry Window",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-09T09:23:03.527Z",
+      "youtubeId": "s-6MzVGIoI8",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
