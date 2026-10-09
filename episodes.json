@@ -2866,6 +2866,63 @@
       "publishedAt": "2026-10-09T11:08:21.772Z",
       "youtubeId": "F6mSCQeN5Xs",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 55,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 55",
+      "slug": "ep-055-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the lodge because I wanted the silence. It is a massive place, mostly wood and local stone, situated about four hours up into the mountains where the cell…",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Localized Blizzard",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Gate Twenty Notification",
+          "minutes": 14
+        },
+        {
+          "n": 3,
+          "title": "The Keeper’s Ledger",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Shopkeeper’s Tenant",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Manifest Gap",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Early Arrival",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Foreman’s Correction",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Darkroom Unit",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Platform Apology",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-09T11:39:18.431Z",
+      "youtubeId": "GURky_mBjog",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
