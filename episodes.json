@@ -2980,6 +2980,63 @@
       "publishedAt": "2026-10-08T09:29:14.833Z",
       "youtubeId": "Q9DOvmqvpRY",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 40,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 40",
+      "slug": "ep-040-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the hotel because I needed the silence. It is a small place on the edge of the city where the carpets are so thick you never hear your own footsteps.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Lobby Clockwork",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Pre-Scrubbed Basin",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Variable Occupancy",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Early Gardener",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Low-Beam Protocol",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Expanding Companionway",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Wrong Patient's Chart",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Isolated Front Porch",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Altered Logbook",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-08T06:48:54.750Z",
+      "youtubeId": "4BixM1yx_6I",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
