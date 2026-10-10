@@ -2923,6 +2923,63 @@
       "publishedAt": "2026-10-09T11:39:18.431Z",
       "youtubeId": "GURky_mBjog",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 42,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 42",
+      "slug": "ep-042-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job because I needed the tuition waiver and the quiet.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The First Reader",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The Deep End Pattern",
+          "minutes": 9
+        },
+        {
+          "n": 3,
+          "title": "The Eleventh Floor Protocol",
+          "minutes": 10
+        },
+        {
+          "n": 4,
+          "title": "The 4:00 AM Interval",
+          "minutes": 14
+        },
+        {
+          "n": 5,
+          "title": "The Prepared Slopes",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Guest Ledger Discrepancy",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Substitute Shift",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Extra Stall",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Hidden Corridor",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-08T09:29:14.833Z",
+      "youtubeId": "Q9DOvmqvpRY",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
