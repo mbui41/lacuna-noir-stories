@@ -3436,6 +3436,63 @@
       "publishedAt": "2026-10-11T17:57:05.249Z",
       "youtubeId": "WRKoXaHfPs0",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 72,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 72",
+      "slug": "ep-072-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the storage facility because it was quiet. The facility is a grid of long, metal buildings on the edge of town, surrounded by a chain-link fence.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Inventory Log",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Stationary Squall",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Crossing Attendant",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Repeating Gate",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Tower Boundary",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Off-Season Guest",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Impossible Studio",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Neighbor's Visit",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Projectionist's Exit",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-11T19:51:52.130Z",
+      "youtubeId": "PjtuSkGfq1E",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
