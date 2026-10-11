@@ -3379,6 +3379,63 @@
       "publishedAt": "2026-10-11T15:51:14.484Z",
       "youtubeId": "bEspFLNEcuQ",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 71,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 71",
+      "slug": "ep-071-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I know you're trying to drift off, so I’ll keep my voice down. I just wanted to tell you about that job I had at the county morgue, back when I worked the intake desk at night.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Twelve-Minute Desk",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "Gate B42",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Eleventh Sock",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Exit 14 Stretch",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Boundary Line",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Filing Clerk",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Shifted Stapler",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Guest Ledger",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Winter Frame",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-11T17:57:05.249Z",
+      "youtubeId": "WRKoXaHfPs0",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
