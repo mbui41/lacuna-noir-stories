@@ -3322,6 +3322,63 @@
       "publishedAt": "2026-10-11T13:56:56.261Z",
       "youtubeId": "1xET0UFHcF0",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 70,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 70",
+      "slug": "ep-070-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I moved into the new place about three weeks ago, on a Tuesday when it was drizzling.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Threshold Habit",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Lookout Exchange",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Halfway House",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Roster Error",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Completed Log",
+          "minutes": 14
+        },
+        {
+          "n": 6,
+          "title": "The Lodge Migration",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Raincoat Stranger",
+          "minutes": 14
+        },
+        {
+          "n": 8,
+          "title": "The Poolside Pager",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Hidden Gallery",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-11T15:51:14.484Z",
+      "youtubeId": "bEspFLNEcuQ",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
