@@ -3151,6 +3151,63 @@
       "publishedAt": "2026-10-10T22:30:59.820Z",
       "youtubeId": "KMRsoGlybUk",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 65,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 65",
+      "slug": "ep-065-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "You should try to get comfortable now, maybe pull the blanket up a bit.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Keeper's Shadow",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Record of Wednesday",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "Gate 42",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Interior Gale",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Lodge Roster",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Receding Home",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "Room 302's Correspondence",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Relief Guard",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Storage Loop",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-11T01:21:55.570Z",
+      "youtubeId": "U1qSFVlL12A",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
