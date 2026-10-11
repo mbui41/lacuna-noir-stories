@@ -3493,6 +3493,63 @@
       "publishedAt": "2026-10-11T19:51:52.130Z",
       "youtubeId": "PjtuSkGfq1E",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 73,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 73",
+      "slug": "ep-073-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I’ve been doing the night shift at the local pool for about three years now.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Tiled Extension",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Occupied House",
+          "minutes": 14
+        },
+        {
+          "n": 3,
+          "title": "The Caretaker's Log",
+          "minutes": 10
+        },
+        {
+          "n": 4,
+          "title": "The Midnight Hum",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Rest Stop Loop",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Station Ledger",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Business Park Perimeter",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Ferry Manifest",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Lookout Light",
+          "minutes": 10
+        }
+      ],
+      "publishedAt": "2026-10-11T21:56:41.093Z",
+      "youtubeId": "GB50hRHgtlY",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
