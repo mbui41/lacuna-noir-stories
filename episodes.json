@@ -3208,6 +3208,63 @@
       "publishedAt": "2026-10-11T01:21:55.570Z",
       "youtubeId": "U1qSFVlL12A",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 68,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 68",
+      "slug": "ep-068-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I had anchored in the cove just after sunset. It was a small, thirty-foot sailboat I’d owned for about five years, and I knew every inch of that mahogany interior by heart.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Companionway",
+          "minutes": 10
+        },
+        {
+          "n": 2,
+          "title": "The Second Fader",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Common Room",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Personal Ledger",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Advance Apology",
+          "minutes": 14
+        },
+        {
+          "n": 6,
+          "title": "The Passenger Pager",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Distant Porch",
+          "minutes": 14
+        },
+        {
+          "n": 8,
+          "title": "The Unfinished Shift",
+          "minutes": 14
+        },
+        {
+          "n": 9,
+          "title": "The Opening Week",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-11T11:51:07.005Z",
+      "youtubeId": "HaahODMTt4w",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
