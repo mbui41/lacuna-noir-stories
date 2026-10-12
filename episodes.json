@@ -3664,6 +3664,63 @@
       "publishedAt": "2026-10-12T02:13:03.239Z",
       "youtubeId": "mnKU-1_7uT0",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 76,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 76",
+      "slug": "ep-076-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the toll plaza because the silence felt like it had a physical weight to it.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Booth Ledger",
+          "minutes": 14
+        },
+        {
+          "n": 2,
+          "title": "The Vestry Corridor",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Projector’s Drift",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Platform Tally",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Foundation Rhythm",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Unit Inventory",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Dashcam Still",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Archive Departure",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Hallway Increment",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-12T05:33:24.394Z",
+      "youtubeId": "L4cPl0AQQuI",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
