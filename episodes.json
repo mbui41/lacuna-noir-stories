@@ -3550,6 +3550,63 @@
       "publishedAt": "2026-10-11T21:56:41.093Z",
       "youtubeId": "GB50hRHgtlY",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 74,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 74",
+      "slug": "ep-074-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the station because I needed the silence. It is about twenty miles out from the nearest town, just a small island of white light in the middle of the flat, dark…",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Canopy Shift",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Paving Phase",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Ceiling Gap",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The First Arrival",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Glass Discrepancy",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Plot Name",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Dryer Lint Note",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Boarding Record",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Script Loop",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-12T00:08:47.698Z",
+      "youtubeId": "6tOlNGmHfCQ",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
