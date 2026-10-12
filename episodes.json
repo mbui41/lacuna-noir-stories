@@ -3607,6 +3607,63 @@
       "publishedAt": "2026-10-12T00:08:47.698Z",
       "youtubeId": "6tOlNGmHfCQ",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 75,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 75",
+      "slug": "ep-075-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I remember the station was almost empty when I boarded. The air smelled like wet gravel and old grease, and the clock over the platform was stuck at eleven-fifteen, even though my…",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Sleeper Car Ledger",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Sorting Protocol",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Lodge Preview",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Seasonal Apology",
+          "minutes": 14
+        },
+        {
+          "n": 5,
+          "title": "The Carpet Line",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Interstate Extension",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Watchman's Discrepancy",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Call Center Echo",
+          "minutes": 10
+        },
+        {
+          "n": 9,
+          "title": "The Unpowered Signal",
+          "minutes": 12
+        }
+      ],
+      "publishedAt": "2026-10-12T02:13:03.239Z",
+      "youtubeId": "mnKU-1_7uT0",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
