@@ -3835,6 +3835,63 @@
       "publishedAt": "2026-10-12T17:25:35.296Z",
       "youtubeId": "JW0d4EriKME",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 64,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 64",
+      "slug": "ep-064-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the motel because I wanted to be somewhere quiet.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Roadside Remnants",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Midnight Humming",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Ledger Exchange",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Forty-First Floor Circuit",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Glasshouse Interval",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Third Pump Protocol",
+          "minutes": 14
+        },
+        {
+          "n": 7,
+          "title": "The Inventory Gap",
+          "minutes": 14
+        },
+        {
+          "n": 8,
+          "title": "The Campsite Logbook",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Drift of the Berth",
+          "minutes": 11
+        }
+      ],
+      "publishedAt": "2026-10-13T18:51:04.366Z",
+      "youtubeId": "hOvZjKb-avQ",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
