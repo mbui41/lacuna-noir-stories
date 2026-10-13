@@ -3892,6 +3892,63 @@
       "publishedAt": "2026-10-13T18:51:04.366Z",
       "youtubeId": "hOvZjKb-avQ",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 63,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 63",
+      "slug": "ep-063-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I went out to that spot at the edge of the pines because I just wanted everything to be quiet for a while.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Second Morning",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Attic Guest",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Threshold Boundary",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Projectionist's Shadow",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Mid-Shift Departure",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Perimeter Expansion",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Wrong Recipient",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Completed Roster",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Chlorine Mirror",
+          "minutes": 26
+        }
+      ],
+      "publishedAt": "2026-10-13T23:58:46.814Z",
+      "youtubeId": "aZGdIBYNWBs",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
