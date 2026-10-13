@@ -3778,6 +3778,63 @@
       "publishedAt": "2026-10-12T13:09:04.261Z",
       "youtubeId": "HGCFShkgSX0",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 78,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 78",
+      "slug": "ep-078-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job as a temporary caretaker for this building back in October.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Half-Done Task",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Preemptive Regret",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Vestry Length",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Departure Still",
+          "minutes": 14
+        },
+        {
+          "n": 5,
+          "title": "The Attendant's Knowledge",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Group Constant",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Attendant's Intercom",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Third Bunk Cadence",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Deep End Protocol",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-10-12T17:25:35.296Z",
+      "youtubeId": "JW0d4EriKME",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
