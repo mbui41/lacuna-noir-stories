@@ -3949,6 +3949,63 @@
       "publishedAt": "2026-10-13T23:58:46.814Z",
       "youtubeId": "aZGdIBYNWBs",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 62,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 62",
+      "slug": "ep-062-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I remember it was a Tuesday night because that is when I usually do my laundry to avoid the weekend crowds.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Suds and the Stillness",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Stacks Displacement",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Perimeter Expansion",
+          "minutes": 14
+        },
+        {
+          "n": 4,
+          "title": "The Attic Geometry",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Reception Slip",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Archive Microclimate",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Ledger Dissonance",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Visor Script",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Cul-de-Sac Echo",
+          "minutes": 23
+        }
+      ],
+      "publishedAt": "2026-10-14T01:10:48.862Z",
+      "youtubeId": "05sSXHiS37M",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
