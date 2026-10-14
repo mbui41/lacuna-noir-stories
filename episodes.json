@@ -4177,6 +4177,63 @@
       "publishedAt": "2026-10-14T03:01:34.929Z",
       "youtubeId": "JZwoWVmpyok",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 58,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 58",
+      "slug": "ep-058-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the church hall because I needed the extra money and the night shift was supposed to be easy.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Hallway Pacing Rule",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Recurring Dormitory Morning",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Migrating Keepsakes",
+          "minutes": 10
+        },
+        {
+          "n": 4,
+          "title": "The Misdirected Forecast",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Laundromat Tally",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Storage Bay Displacement",
+          "minutes": 10
+        },
+        {
+          "n": 7,
+          "title": "The Unaccounted Beacon",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Threshold Boundary",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Ward Roster",
+          "minutes": 24
+        }
+      ],
+      "publishedAt": "2026-10-14T03:02:00.064Z",
+      "youtubeId": "GY8L_cF6CTg",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
