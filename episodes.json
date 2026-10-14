@@ -4006,6 +4006,63 @@
       "publishedAt": "2026-10-14T01:10:48.862Z",
       "youtubeId": "05sSXHiS37M",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 61,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 61",
+      "slug": "ep-061-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took this job because I wanted to be alone. The business park is three miles outside of the nearest town, and it has been empty for over two years since the tech company left.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Four O’Clock Footfall",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Hallway Microclimate",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Stairwell Increment",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Room Twelve Inventory",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Archive Index",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Auxiliary Circuit",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Rinse Cycle Protocol",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Fourth Bed Observation",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Completed Manifest",
+          "minutes": 23
+        }
+      ],
+      "publishedAt": "2026-10-14T02:27:35.440Z",
+      "youtubeId": "rBg3ZMgkpGI",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
