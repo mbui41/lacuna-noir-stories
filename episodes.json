@@ -4063,6 +4063,63 @@
       "publishedAt": "2026-10-14T02:27:35.440Z",
       "youtubeId": "rBg3ZMgkpGI",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 60,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 60",
+      "slug": "ep-060-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I’ve been driving the same four-hundred-mile loop for about seven years now.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Occupied Cab",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Preemptive Apology",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Misaddressed Report",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Shifting Ledger",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Attendant's Rhythm",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Impossible Threshold",
+          "minutes": 14
+        },
+        {
+          "n": 7,
+          "title": "The Corner Commandment",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Circuit Leak",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Negative Image",
+          "minutes": 25
+        }
+      ],
+      "publishedAt": "2026-10-14T02:28:43.245Z",
+      "youtubeId": "YULO5WZeHPA",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
