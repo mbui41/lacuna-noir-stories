@@ -4120,6 +4120,63 @@
       "publishedAt": "2026-10-14T02:28:43.245Z",
       "youtubeId": "YULO5WZeHPA",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 59,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 59",
+      "slug": "ep-059-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I used to work the late shift at a cinema downtown, one of those old places with velvet curtains and gold leaf peeling off the ceiling.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Projectionist's Landing",
+          "minutes": 11
+        },
+        {
+          "n": 2,
+          "title": "The Off-Season Inventory",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Four AM Loop",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Cubicle Mimic",
+          "minutes": 10
+        },
+        {
+          "n": 5,
+          "title": "The Gatehouse Tally",
+          "minutes": 11
+        },
+        {
+          "n": 6,
+          "title": "The Interrupted Routine",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Platform Signal",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Perimeter Hum",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Curator's Correspondence",
+          "minutes": 24
+        }
+      ],
+      "publishedAt": "2026-10-14T03:01:34.929Z",
+      "youtubeId": "JZwoWVmpyok",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
