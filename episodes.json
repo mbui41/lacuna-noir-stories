@@ -4348,6 +4348,63 @@
       "publishedAt": "2026-10-14T12:08:09.532Z",
       "youtubeId": "_OHOlqumyeM",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 56,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 56",
+      "slug": "ep-056-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I moved into this flat about six months ago. It is a small space, mostly just one long room with a kitchenette at the end, sitting directly above a hardware store on the main…",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Shopkeeper's Ledger",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Final Inventory",
+          "minutes": 12
+        },
+        {
+          "n": 3,
+          "title": "The Station Hand",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Abandoned Social",
+          "minutes": 13
+        },
+        {
+          "n": 5,
+          "title": "The Midnight Hum",
+          "minutes": 12
+        },
+        {
+          "n": 6,
+          "title": "The Logbook Entry",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Three-Minute Loop",
+          "minutes": 11
+        },
+        {
+          "n": 8,
+          "title": "The Nursery Tag",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Threshold",
+          "minutes": 23
+        }
+      ],
+      "publishedAt": "2026-10-14T12:07:29.565Z",
+      "youtubeId": "zO06tXzyz3A",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
