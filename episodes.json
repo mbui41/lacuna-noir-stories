@@ -4291,6 +4291,63 @@
       "publishedAt": "2026-10-14T12:07:13.850Z",
       "youtubeId": "oNssiORNDq8",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 57,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 57",
+      "slug": "ep-057-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I know how this sounds, and I'm not the type to see things. I've been the keyholder for the village church hall for six years, and usually, it's just a matter of locking up after…",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Rehearsal Loop",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Occupancy Variance",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Playback Shift",
+          "minutes": 12
+        },
+        {
+          "n": 4,
+          "title": "The Exit Gradient",
+          "minutes": 12
+        },
+        {
+          "n": 5,
+          "title": "The Anchor Drift",
+          "minutes": 14
+        },
+        {
+          "n": 6,
+          "title": "The Early Scholar",
+          "minutes": 11
+        },
+        {
+          "n": 7,
+          "title": "The Front Desk Interval",
+          "minutes": 13
+        },
+        {
+          "n": 8,
+          "title": "The Midnight Station",
+          "minutes": 11
+        },
+        {
+          "n": 9,
+          "title": "The Isolated Front",
+          "minutes": 26
+        }
+      ],
+      "publishedAt": "2026-10-14T12:08:09.532Z",
+      "youtubeId": "_OHOlqumyeM",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
