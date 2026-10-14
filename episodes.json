@@ -4234,6 +4234,63 @@
       "publishedAt": "2026-10-14T03:02:00.064Z",
       "youtubeId": "GY8L_cF6CTg",
       "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 50,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 50",
+      "slug": "ep-050-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "You know how the air gets thin when you’re up that high. It’s a dry, cold feeling that makes your lungs feel a little brittle, like they might crack if you breathe in too fast.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Maintenance Log Discrepancy",
+          "minutes": 13
+        },
+        {
+          "n": 2,
+          "title": "The Lobby Arrangement",
+          "minutes": 11
+        },
+        {
+          "n": 3,
+          "title": "The Glasshouse Annex",
+          "minutes": 11
+        },
+        {
+          "n": 4,
+          "title": "The Premature Apology",
+          "minutes": 11
+        },
+        {
+          "n": 5,
+          "title": "The Upper Floor Current",
+          "minutes": 10
+        },
+        {
+          "n": 6,
+          "title": "The Archive Regular",
+          "minutes": 12
+        },
+        {
+          "n": 7,
+          "title": "The Iron Stair Tally",
+          "minutes": 12
+        },
+        {
+          "n": 8,
+          "title": "The Dry Patch",
+          "minutes": 13
+        },
+        {
+          "n": 9,
+          "title": "The Corridor Extension",
+          "minutes": 22
+        }
+      ],
+      "publishedAt": "2026-10-14T12:07:13.850Z",
+      "youtubeId": "oNssiORNDq8",
+      "display": "TRUE Scary Stories for Sleep"
     }
   ]
 }
