@@ -1386,63 +1386,6 @@
       "display": "TRUE Scary Stories for Sleep"
     },
     {
-      "episode": 27,
-      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 27",
-      "slug": "ep-027-no-ads-2-hours-of-true-scary-stories",
-      "blurb": "I took the job at the community pool because I needed the silence.",
-      "stories": 9,
-      "storyList": [
-        {
-          "n": 1,
-          "title": "The Shallow End Protocol",
-          "minutes": 12
-        },
-        {
-          "n": 2,
-          "title": "The Boundary of the Records",
-          "minutes": 12
-        },
-        {
-          "n": 3,
-          "title": "The Attendant's Receipt",
-          "minutes": 12
-        },
-        {
-          "n": 4,
-          "title": "The Caretaker’s Corridor",
-          "minutes": 12
-        },
-        {
-          "n": 5,
-          "title": "The Mid-Task Lodge",
-          "minutes": 13
-        },
-        {
-          "n": 6,
-          "title": "The Dashboard Perspective",
-          "minutes": 13
-        },
-        {
-          "n": 7,
-          "title": "The Inventory of the Hall",
-          "minutes": 10
-        },
-        {
-          "n": 8,
-          "title": "The Completed Log",
-          "minutes": 11
-        },
-        {
-          "n": 9,
-          "title": "The Repeating Gate",
-          "minutes": 12
-        }
-      ],
-      "publishedAt": "2026-10-07T07:59:20.606Z",
-      "youtubeId": "K_6HEmZW548",
-      "display": "TRUE Scary Stories for Sleep"
-    },
-    {
       "episode": 28,
       "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 28",
       "slug": "ep-028-no-ads-2-hours-of-true-scary-stories",
@@ -4404,6 +4347,63 @@
       ],
       "publishedAt": "2026-11-08T21:35:33.222Z",
       "youtubeId": "r9S9bicC3MM",
+      "display": "TRUE Scary Stories for Sleep"
+    },
+    {
+      "episode": 27,
+      "title": "NO ADS 🛑 2 HOURS of TRUE Scary Stories for Sleep | Rain Sounds | Black Screen | Ep. 27",
+      "slug": "ep-027-no-ads-2-hours-of-true-scary-stories",
+      "blurb": "I took the job at the recreation center because I wanted the quiet. It was just me and the echoes after ten o'clock, and the air always smelled like chlorine and floor wax.",
+      "stories": 9,
+      "storyList": [
+        {
+          "n": 1,
+          "title": "The Deep End Displacement",
+          "minutes": 12
+        },
+        {
+          "n": 2,
+          "title": "The Four O’Clock Stutter",
+          "minutes": 13
+        },
+        {
+          "n": 3,
+          "title": "The Unwired Glow",
+          "minutes": 13
+        },
+        {
+          "n": 4,
+          "title": "The Winter Salt Requirement",
+          "minutes": 14
+        },
+        {
+          "n": 5,
+          "title": "The Completed Circuit",
+          "minutes": 13
+        },
+        {
+          "n": 6,
+          "title": "The Perimeter Threshold",
+          "minutes": 13
+        },
+        {
+          "n": 7,
+          "title": "The Preemptive Apology",
+          "minutes": 15
+        },
+        {
+          "n": 8,
+          "title": "The Cul-de-Sac Stretch",
+          "minutes": 12
+        },
+        {
+          "n": 9,
+          "title": "The Counter Balance",
+          "minutes": 13
+        }
+      ],
+      "publishedAt": "2026-11-09T03:34:08.095Z",
+      "youtubeId": "azoF8Iz1W7E",
       "display": "TRUE Scary Stories for Sleep"
     }
   ]
